@@ -24,7 +24,16 @@ jobs:
       - name: Run Lead Auditor
         env:
           PSI_API_KEY: ${{ secrets.PSI_API_KEY }}
-        run: python audit_leads.py
+        run: |
+          FILE_PATH=$(find . -name "audit_leads.py")
+          if [ -z "$FILE_PATH" ]; then
+            echo "CRITICAL: audit_leads.py was not found anywhere in the repo."
+            ls -R
+            exit 1
+          else
+            echo "Found file at: $FILE_PATH"
+            python "$FILE_PATH"
+          fi
 
       - name: Upload Results
         uses: actions/upload-artifact@v4
