@@ -24,8 +24,9 @@ from datetime import datetime
 
 PSI_API_KEY = os.getenv("PSI_API_KEY", "YOUR_PSI_API_KEY_HERE")
 
-INPUT_FILE  = "dataset_crawler-google-places.json"
-OUTPUT_FILE = "audited_leads.csv"
+INPUT_FILE   = "dataset_crawler-google-places.json"
+OUTPUT_FILE  = "audited_leads.csv"
+RETRY_FILE   = "audited_leads.csv"   # set to CSV to retry only timed-out rows
 
 # Filter thresholds
 MIN_REVIEWS  = 10
@@ -109,22 +110,28 @@ def get_psi_score(url: str) -> tuple[int | None, str]:
         "category": "performance",
     }
 
-    try:
-        r = requests.get(endpoint, params=params, timeout=30)
-        data = r.json()
+    for attempt in range(3):  # retry up to 3 times
+        try:
+            r = requests.get(endpoint, params=params, timeout=60)
+            data = r.json()
 
-        if "error" in data:
-            return None, f"api_error: {data['error'].get('message', '')[:50]}"
+            if "error" in data:
+                return None, f"api_error: {data['error'].get('message', '')[:50]}"
 
-        score = data["lighthouseResult"]["categories"]["performance"]["score"]
-        return int(score * 100), "ok"
+            score = data["lighthouseResult"]["categories"]["performance"]["score"]
+            return int(score * 100), "ok"
 
-    except requests.exceptions.Timeout:
-        return None, "psi_timeout"
-    except (KeyError, json.JSONDecodeError) as e:
-        return None, f"parse_error: {str(e)[:40]}"
-    except Exception as e:
-        return None, f"error: {str(e)[:40]}"
+        except requests.exceptions.Timeout:
+            if attempt < 2:
+                print(f"  ⏳ PSI timeout, retrying ({attempt+2}/3)...")
+                time.sleep(3)
+                continue
+            return None, "psi_timeout"
+        except (KeyError, json.JSONDecodeError) as e:
+            return None, f"parse_error: {str(e)[:40]}"
+        except Exception as e:
+            return None, f"error: {str(e)[:40]}"
+    return None, "psi_timeout"
 
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
@@ -282,5 +289,69 @@ def main():
     print(f"\n{'='*60}\n")
 
 
+def retry_timeouts(csv_path: str):
+    """
+    Re-run PSI checks only on rows where psi_status = psi_timeout.
+    Updates the CSV in place.
+    """
+    import csv as csv_module
+
+    with open(csv_path, "r", encoding="utf-8") as f:
+        rows = list(csv_module.DictReader(f))
+
+    fieldnames = list(rows[0].keys()) if rows else []
+    pending = [r for r in rows if r.get("psi_status") == "psi_timeout"]
+
+    if not pending:
+        print("No timed-out rows to retry.")
+        return
+
+    print(f"\n🔄 Retrying PSI for {len(pending)} timed-out rows...\n")
+
+    for row in pending:
+        name = row["business_name"]
+        url  = row["website"]
+        print(f"  {name}")
+        score, status = get_psi_score(url)
+        row["psi_mobile"] = score if score is not None else "not_checked"
+        row["psi_status"] = status
+        if score is not None:
+            print(f"  📊 {score}/100\n")
+        else:
+            print(f"  📊 {status}\n")
+        time.sleep(2)
+
+    # Remove rows where site turned out to be fast (score > MAX_PSI_SCORE)
+    kept = []
+    removed = 0
+    for row in rows:
+        score = row.get("psi_mobile")
+        if isinstance(score, int) and score > MAX_PSI_SCORE:
+            removed += 1
+            continue
+        try:
+            if int(score) > MAX_PSI_SCORE:
+                removed += 1
+                continue
+        except (ValueError, TypeError):
+            pass
+        kept.append(row)
+
+    with open(csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv_module.DictWriter(f, fieldnames=fieldnames)
+        writer.writeheader()
+        writer.writerows(kept)
+
+    print(f"✅ Done. {len(kept)} leads kept, {removed} removed (sites too fast).")
+
+
+# ── ENTRY POINT ───────────────────────────────────────────────────────────────
+
+
 if __name__ == "__main__":
-    main()
+    import sys
+    if len(sys.argv) > 1 and sys.argv[1] == "--retry":
+        target = sys.argv[2] if len(sys.argv) > 2 else RETRY_FILE
+        retry_timeouts(target)
+    else:
+        main()
