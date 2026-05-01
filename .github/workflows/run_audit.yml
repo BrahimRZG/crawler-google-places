@@ -1,0 +1,33 @@
+name: Lead Audit Run
+
+on:
+  workflow_dispatch: # Allows you to run it manually with a button click
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Lead Auditor
+        env:
+          PSI_API_KEY: ${{ secrets.PSI_API_KEY }}
+        run: python audit_leads.py
+
+      - name: Upload Results
+        uses: actions/upload-artifact@v4
+        with:
+          name: audited-leads-csv
+          path: audited_leads.csv
