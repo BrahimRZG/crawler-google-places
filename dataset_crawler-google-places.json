@@ -1,388 +1,4775 @@
 [{
-  "title": "All Around Plumbing LLC",
+  "title": "New View Roofing",
   "totalScore": 4.9,
-  "reviewsCount": 271,
-  "street": "11111 Katy Fwy Suite 910",
-  "city": "Houston",
+  "reviewsCount": 685,
+  "street": "4722 Gaston Ave",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://allaroundplumbingtx.com/",
-  "phone": "(713) 357-0154",
+  "website": "https://newviewroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "phone": "(469) 232-7220",
   "categories": [
-    "Plumber"
+    "Roofing contractor",
+    "Gutter cleaning service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=All%20Around%20Plumbing%20LLC&query_place_id=ChIJka-vV8bXQIYRHeyleDZLlVw",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20View%20Roofing&query_place_id=ChIJq2swoiWfToYRJ_TkZewgVg8",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "West Shore Home",
-  "totalScore": 4.7,
-  "reviewsCount": 2701,
-  "street": "2680 Gateway Centre Pkwy Building A, Suite 1000",
-  "city": "St. Petersburg",
-  "state": "Florida",
+  "title": "Wortham Brothers Roofing Dallas",
+  "totalScore": 5,
+  "reviewsCount": 49,
+  "street": "325 North St. Paul Street Suite 3100",
+  "city": "Dallas",
+  "state": "Texas",
   "countryCode": "US",
-  "website": "https://westshorehome.com/locations/tampa-fl/?utm_source=gbp&utm_medium=organic&utm_branch=tampa",
-  "phone": "(727) 261-0179",
+  "website": "https://wbroofing.com/",
+  "phone": "(214) 971-8838",
   "categories": [
-    "Bathroom remodeler",
-    "Flooring store",
-    "Home help service agency",
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Wortham%20Brothers%20Roofing%20Dallas&query_place_id=ChIJNa8ky1yZToYRBZD4Q3VQ-ZI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "United Roofing & General Contractors",
+  "totalScore": 5,
+  "reviewsCount": 63,
+  "street": "325 North St. Paul Street Suite 2100",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://unitedroofers.co/",
+  "phone": "(888) 863-8858",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=United%20Roofing%20%26%20General%20Contractors&query_place_id=ChIJvS4w_BmZToYRNlp2LKrMmPA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Vertex Roofers and General Contractors",
+  "totalScore": 4.8,
+  "reviewsCount": 71,
+  "street": "2550 Pacific Ave Suite 844",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://vertexroofers.com/",
+  "phone": "(214) 206-5123",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vertex%20Roofers%20and%20General%20Contractors&query_place_id=ChIJ0RnHxOA7TIYRgI-8OROJYsE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "White Rock Roofing",
+  "totalScore": 5,
+  "reviewsCount": 208,
+  "street": "3500 Oak Lawn Ave #460",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://roofwhiterock.com/get-a-quote",
+  "phone": "(972) 362-9647",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=White%20Rock%20Roofing&query_place_id=ChIJL_LM4-CZToYRUfl--eVFgls",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Commercial Flat Roofing of Dallas",
+  "totalScore": 5,
+  "reviewsCount": 10,
+  "street": "2915 Fairmount St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://commercialflatroofingofdallas.com/commercial-roofing/tpo-roofing/",
+  "phone": "(469) 224-8531",
+  "categories": [
+    "Roofing contractor",
+    "Roofing supply store"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Flat%20Roofing%20of%20Dallas&query_place_id=ChIJjWVIJACZToYR5XNUyCj-irc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "We Roof Dallas, Inc",
+  "totalScore": 5,
+  "reviewsCount": 204,
+  "street": "1112 N Riverfront Blvd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://weroofdallas.com/",
+  "phone": "(972) 600-8259",
+  "categories": [
+    "Roofing contractor",
+    "Building restoration service",
+    "Roofing supply store",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=We%20Roof%20Dallas%2C%20Inc&query_place_id=ChIJg-dJ22mOToYRK2u_x5rbqss",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "DTX Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 202,
+  "street": "1910 Pacific Ave #8005",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.dtxroofing.com/",
+  "phone": "(469) 820-3830",
+  "categories": [
+    "Roofing contractor",
+    "Solar energy company",
+    "Solar energy system service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=DTX%20Construction&query_place_id=ChIJ3R02rNmZToYRquMYlFffu4Y",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lone Ranger Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 20,
+  "street": "2828 Lemmon Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.lonerangerroofing.com/",
+  "phone": "(972) 503-9236",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lone%20Ranger%20Roofing&query_place_id=ChIJ3x2pjXefToYRiHphozhCB4U",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Home Quality Solutions Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 146,
+  "street": "3839 McKinney Ave Suite 155-2417",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://homequalitysolutions.com/",
+  "phone": "(972) 743-0331",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Fence contractor",
+    "Fire damage restoration service",
+    "Flooring contractor",
+    "Gutter cleaning service",
+    "Painting",
+    "Sheet metal contractor",
+    "Solar energy system service",
+    "Water damage restoration service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Home%20Quality%20Solutions%20Roofing&query_place_id=ChIJQ08FtXOfToYRwjU_ZJEfXW0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Longhorn Commercial Roofing Dallas",
+  "totalScore": 4.9,
+  "reviewsCount": 16,
+  "street": "209 Browder St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://longhorncommercialroofingdallas.com/",
+  "phone": "(469) 983-5041",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Longhorn%20Commercial%20Roofing%20Dallas&query_place_id=ChIJC3kqspqZToYRUMFuM4kmLMY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Shepherd Roofing & Renovations",
+  "totalScore": 5,
+  "reviewsCount": 203,
+  "street": "2626 Cole Ave #300B",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.shepherdroofingrenovations.com/",
+  "phone": "(972) 244-3705",
+  "categories": [
+    "Roofing contractor",
+    "Painter",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shepherd%20Roofing%20%26%20Renovations&query_place_id=ChIJV9hwCk6VToYRZoHymyzrFoY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Elite Roofing & Restoration Services",
+  "totalScore": 4.8,
+  "reviewsCount": 21,
+  "street": "2626 Cole Ave Suite 363",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://eliteteamroofing.com/",
+  "phone": "(214) 444-5265",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Elite%20Roofing%20%26%20Restoration%20Services&query_place_id=ChIJO7JfK3OfToYRCdX94HGBnN0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Spartan Roofing and Construction",
+  "totalScore": 4.8,
+  "reviewsCount": 51,
+  "street": "2626 Cole Ave suit 300",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.spartanroofs.com/",
+  "phone": "(214) 308-1131",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Spartan%20Roofing%20and%20Construction&query_place_id=ChIJ__8PGi2ZToYRQLXGOE31gks",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Arrington Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 345,
+  "street": "2203 Obenchain St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://arringtonroofing.com/?utm_source=gbp&utm_medium=organic&utm_campaign=gbp-listing",
+  "phone": "(214) 698-8443",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Arrington%20Roofing&query_place_id=ChIJVe3qQYKZToYRLD6wecHlvlI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Roofers USA",
+  "totalScore": 4.5,
+  "reviewsCount": 8,
+  "street": "5413 Live Oak St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://texasroofers.com/locations/dallas-texas-roofers/",
+  "phone": "(214) 717-8818",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roofers%20USA&query_place_id=ChIJsfLsSQAdVQMReHKxcRMJkfo",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Elite Commercial Roofing",
+  "totalScore": 5,
+  "reviewsCount": 24,
+  "street": "701 Commerce St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://texaselitecommercialroofing.com/",
+  "phone": "(214) 380-3237",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Elite%20Commercial%20Roofing&query_place_id=ChIJ48uaeuuZToYRyiTPszfxXr4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Knox Roofing",
+  "totalScore": 5,
+  "reviewsCount": 209,
+  "street": "1835 Empire Central Dr Ste. O",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.knoxroofingpros.com/",
+  "phone": "(214) 646-6625",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Knox%20Roofing&query_place_id=ChIJixo53iidToYRWUNVsZ0ge9o",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Stiller Roofing",
+  "totalScore": 5,
+  "reviewsCount": 54,
+  "street": "3502 N Hwy 77",
+  "city": "Waxahachie",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.stillerroofing.com/",
+  "phone": "(972) 935-2108",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Stiller%20Roofing&query_place_id=ChIJI0HF-ezrToYRpCal8WAAIGI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Top Craft Roofing",
+  "totalScore": 5,
+  "reviewsCount": 49,
+  "street": "6060 N Central Expy #230",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://topcraftroofs.com/",
+  "phone": "(469) 796-8979",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Craft%20Roofing&query_place_id=ChIJxyijfR-fToYRi_8OYSiZt8s",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Eclat Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 25,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(214) 373-1500",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/place/Eclat Roofing/@32.86607,-96.800192,14z/data=!3m1!4b1!4m9!3m8!5m2!4m1!1i2!8m2!3d32.86607!4d-96.800192!16snull!17Bnull",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Baker Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 61,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(855) 766-3777",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/place/Baker Roofing & Construction/@32.845492,-96.749245,14z/data=!3m1!4b1!4m9!3m8!5m2!4m1!1i2!8m2!3d32.845492!4d-96.749245!16snull!17Bnull",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Evolve Construction TX",
+  "totalScore": 4.8,
+  "reviewsCount": 61,
+  "street": "325 North St. Paul Street Suite 3100",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.evolveconstruction.com/",
+  "phone": "(469) 949-4997",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Evolve%20Construction%20TX&query_place_id=ChIJhyScZLeZToYRO_IgAWaGKvY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Emerson Roofing & Siding",
+  "totalScore": 5,
+  "reviewsCount": 383,
+  "street": "2911 Turtle Creek Blvd # 300",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://emersonproservices.com/roofing-siding/",
+  "phone": "(972) 573-5854",
+  "categories": [
+    "Roofing contractor",
+    "Kitchen remodeler",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Emerson%20Roofing%20%26%20Siding&query_place_id=ChIJN5F69gWfToYRd2MDaY8rEeY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Loyalty Commercial Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 21,
+  "street": "1206 Powhattan St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://loyaltycommercialroofing.net/",
+  "phone": "(469) 663-6538",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Loyalty%20Commercial%20Roofing&query_place_id=ChIJfQtEeACZToYR_7FadFjG1vc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Allied Siding & Windows",
+  "totalScore": 4.4,
+  "reviewsCount": 174,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(972) 888-9988",
+  "categories": [
     "Window installation service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=West%20Shore%20Home&query_place_id=ChIJt2sBsS_kwogRuTfgkGK4hfo",
-  "categoryName": "Bathroom remodeler"
+  "url": "https://www.google.com/maps/place/Allied Siding & Windows/@32.940135,-97.077992,14z/data=!3m1!4b1!4m9!3m8!5m2!4m1!1i2!8m2!3d32.940135!4d-97.077992!16snull!17Bnull",
+  "categoryName": "Window installation service"
 },
 {
-  "title": "Houston Plumbing Expert",
+  "title": "Commercial Roofing & Coatings",
   "totalScore": 4.9,
-  "reviewsCount": 121,
-  "street": "7676 Hillmont St Suite 344 - 19",
-  "city": "Houston",
+  "reviewsCount": 15,
+  "street": "825 Texas St",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://www.houstonplumbingexpert.com/",
-  "phone": "(713) 524-7400",
+  "website": "https://dallascommercialroofingcoatings.com/commercial-roofing/",
+  "phone": "(469) 817-6329",
   "categories": [
-    "Plumber",
-    "Air compressor repair service",
-    "Air conditioning repair service",
-    "Drainage service",
-    "Gas installation service",
-    "Gasfitter",
-    "HVAC contractor",
-    "Water filter supplier"
+    "Roofing contractor"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Houston%20Plumbing%20Expert&query_place_id=ChIJ9cDWyWHrQIYRNAoEDroWhlY",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Roofing%20%26%20Coatings&query_place_id=ChIJ8aeeSgCZToYRrwjTXC4XS9I",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "All The Time Plumbing",
+  "title": "American Homes Roofing",
+  "totalScore": 4.7,
+  "reviewsCount": 47,
+  "street": "1910 Pacific Ave Suite #8020",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://americanhomesroofing.net/Contact-Us",
+  "phone": "(972) 765-8334",
+  "categories": [
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=American%20Homes%20Roofing&query_place_id=ChIJVVXpaXGTToYRKgO7WXIJeP8",
+  "categoryName": "Contractor"
+},
+{
+  "title": "FOX Roofing | Dallas",
+  "totalScore": 5,
+  "reviewsCount": 75,
+  "street": "2550 Pacific Ave Suite 300",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.foxroofing.co/",
+  "phone": "(214) 505-3374",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=FOX%20Roofing%20%7C%20Dallas&query_place_id=ChIJccAwUG4hTIYRcWUfYP3_ytA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Qualis Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 126,
+  "street": "6115 Owens St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://qualisgc.com/",
+  "phone": "(972) 284-7827",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Qualis%20Roofing%20%26%20Construction&query_place_id=ChIJeUIBIUydToYR0OnoMM01JA0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Priority Roofing",
+  "totalScore": 5,
+  "reviewsCount": 957,
+  "street": "1420 W Mockingbird Ln Suite 540",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://priorityroofs.com/location/dallas/",
+  "phone": "(469) 615-8193",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Priority%20Roofing&query_place_id=ChIJ362kdXylToYRBMNOxMPKQEs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "AM Roofing and Remodeling",
+  "totalScore": 5,
+  "reviewsCount": 62,
+  "street": "1777 N Record St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.amroofingdfw.com/",
+  "phone": "(972) 880-1871",
+  "categories": [
+    "Roofing contractor",
+    "Construction company"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=AM%20Roofing%20and%20Remodeling&query_place_id=ChIJs9Kb80KZToYRMs-a4Wpptoc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Metal Roofing",
+  "totalScore": 5,
+  "reviewsCount": 22,
+  "street": "4245 N Central Expy #490",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://texasmetalroofingcompany.com/",
+  "phone": "(972) 632-5989",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Metal%20Roofing&query_place_id=ChIJZZhqBawfTIYRjnADa5cvQ4E",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Stevan Buren Commercial Roofing Dallas",
   "totalScore": 4.8,
-  "reviewsCount": 335,
-  "street": "13100 Wortham Center Dr",
-  "city": "Houston",
+  "reviewsCount": 20,
+  "street": "1910 Pacific Ave Suite 17233",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://allthetimeplumbing.com/",
-  "phone": "(713) 705-3926",
+  "website": "https://www.stevanburen.com/commercial/locations/commercial-roofing-dallas-tx",
+  "phone": "(214) 432-2593",
   "categories": [
-    "Plumber"
+    "Roofing contractor",
+    "Waterproofing service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=All%20The%20Time%20Plumbing&query_place_id=ChIJQ3C4EVLPQIYRMXJwypGFg5o",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Stevan%20Buren%20Commercial%20Roofing%20Dallas&query_place_id=ChIJObUSovKZToYR0EO7CMjn1eU",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "Halo Plumbing Services",
-  "totalScore": 4.8,
-  "reviewsCount": 522,
-  "street": "1654 Oak Tree Dr",
-  "city": "Houston",
+  "title": "Reveles Roofing",
+  "totalScore": 5,
+  "reviewsCount": 211,
+  "street": "5101 Parry Ave",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://haloplumbingtx.com/",
-  "phone": "(346) 642-5698",
+  "website": "http://www.revelesroofing.com/",
+  "phone": "(214) 900-8930",
   "categories": [
-    "Plumber",
-    "Drainage service"
+    "Roofing contractor",
+    "Fence contractor",
+    "Gutter cleaning service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Halo%20Plumbing%20Services&query_place_id=ChIJgRojLgXHQIYR5PHe5HcGADE",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Reveles%20Roofing&query_place_id=ChIJJ6vOPKSYToYRbZ2os-UKpEE",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "Hugo Plumbing",
+  "title": "Community Roofing Texas",
   "totalScore": 4.9,
-  "reviewsCount": 534,
-  "street": "7038 Cotton Dr",
-  "city": "Houston",
+  "reviewsCount": 75,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.communityroofingtexas.com/",
+  "phone": "(713) 364-4525",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "Service establishment",
+    "Gutter cleaning service",
+    "Siding contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Community%20Roofing%20Texas&query_place_id=ChIJMcgku5mfToYRDHIVtuPLoOg",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Integral Commercial - Roofing Contractor & Roofer Texas",
+  "totalScore": 3.7,
+  "reviewsCount": 6,
+  "street": "100 Crescent Ct Suite 700",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://www.hugoplumbingtx.com/",
-  "phone": "(713) 409-7176",
+  "website": "http://www.integral-commercial.com/",
+  "phone": "(214) 864-9310",
   "categories": [
-    "Plumber",
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Integral%20Commercial%20-%20Roofing%20Contractor%20%26%20Roofer%20Texas&query_place_id=ChIJMYTzfBKZToYRrOL19Ru-8e4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "ALLIED ROOFING OF TEXAS, INC.",
+  "totalScore": 5,
+  "reviewsCount": 7,
+  "street": "2826 Dawson St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.alliedroofingtexas.com/",
+  "phone": "(214) 637-7771",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=ALLIED%20ROOFING%20OF%20TEXAS%2C%20INC.&query_place_id=ChIJh9uhwomcToYR2OvWZTJRfxU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "MacDonald Roofing & Remodeling",
+  "totalScore": 5,
+  "reviewsCount": 65,
+  "street": "4245 N Central Expy Suite 490",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.teammacdonald.com/",
+  "phone": "(214) 601-9304",
+  "categories": [
+    "Roofing contractor",
     "Bathroom remodeler",
     "Contractor",
-    "Drainage service",
     "Kitchen remodeler"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Hugo%20Plumbing&query_place_id=ChIJVYE1IcDFQIYRsc655TwYUvA",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=MacDonald%20Roofing%20%26%20Remodeling&query_place_id=ChIJpRzybVafToYRRz9VKo7HSC0",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "1-Tom-Plumber",
+  "title": "Hello Roofing",
   "totalScore": 4.9,
-  "reviewsCount": 558,
-  "street": "3635 Willowbend Blvd # 318",
-  "city": "Houston",
+  "reviewsCount": 68,
+  "street": "919 N Bishop Ave C",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://www.1tomplumber.com/houston/",
-  "phone": "(832) 406-4711",
+  "website": "http://www.helloroofing.com/",
+  "phone": "(214) 893-5693",
   "categories": [
-    "Plumber",
-    "Drainage service"
+    "Roofing contractor"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=1-Tom-Plumber&query_place_id=ChIJp3lijm7rQIYRzF6ahjpFMQk",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Hello%20Roofing&query_place_id=ChIJ0eJx_lyZToYRPzopcoR3MnU",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "GEI Plumbing Services Houston",
-  "totalScore": 4.8,
-  "reviewsCount": 693,
-  "street": "10101 Fondren Rd #330",
-  "city": "Houston",
+  "title": "Low Cost Roofing Dallas",
+  "totalScore": 5,
+  "reviewsCount": 153,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://alowcostroofingdallas.com/",
+  "phone": "(972) 905-0444",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment",
+    "Home builder",
+    "Repair service",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Low%20Cost%20Roofing%20Dallas&query_place_id=ChIJ7bE4f_p9ToYRqnupSpgWogs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Vargas & Sons Roof Repair",
+  "totalScore": 4.7,
+  "reviewsCount": 110,
+  "street": "6747 Abrams Rd",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://www.geiplumbingservices.com/",
-  "phone": "(832) 402-8312",
+  "website": "https://vargasroofrepair.pro/dallas",
+  "phone": "(936) 259-0222",
   "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vargas%20%26%20Sons%20Roof%20Repair&query_place_id=ChIJoxpB9vGhToYRGIaVDVlm25c",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Firefighter Roofing",
+  "totalScore": 5,
+  "reviewsCount": 195,
+  "street": "6060 N Central Expy Suite 584",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://firefighterroofing.com/locations/dallas/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Dallas-TX",
+  "phone": "(972) 587-0514",
+  "categories": [
+    "Roofing contractor",
+    "Siding contractor",
+    "Skylight contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Firefighter%20Roofing&query_place_id=ChIJIfa-erafToYRCHAkf2UxXm8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Premier Roofing",
+  "totalScore": 5,
+  "reviewsCount": 141,
+  "street": "6500 Greenville Ave Ste 680",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.txpremierroofing.com/",
+  "phone": "(888) 858-9010",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Premier%20Roofing&query_place_id=ChIJ-zyFxInuPKcRZmtwYfoF1tQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "A1 Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 63,
+  "street": "10920 Switzer Ave #100",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://a1roofingdallas.com/",
+  "phone": "(469) 779-0606",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Metal fabricator"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=A1%20Roofing%20%26%20Construction&query_place_id=ChIJl5vcrIGgToYREq-15qGU4ao",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "AM Roofing Company",
+  "totalScore": 4.9,
+  "reviewsCount": 39,
+  "street": "5641 SMU Boulevard #106",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://amroofingcompany.com/?utm_source=Google_Maps&utm_medium=Website_Link-Click&utm_campaign=Google_Maps_Visits",
+  "phone": "(214) 980-4366",
+  "categories": [
+    "Roofing contractor",
+    "Gutter cleaning service",
+    "Pressure washing service",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=AM%20Roofing%20Company&query_place_id=ChIJ7TFUP4ycToYRBKMY3CC9oLE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roofing Giant",
+  "totalScore": 4.8,
+  "reviewsCount": 79,
+  "street": "2730 N Stemmons Fwy #415",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.roofinggiant.com/",
+  "phone": "(469) 498-6772",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofing%20Giant&query_place_id=ChIJjU6PswWcToYRAIG5tS84QUg",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Elite Roofers",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "3839 McKinney Ave 155 Suite 155",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://dallasroofingcontractorservice.com/",
+  "phone": "(945) 219-3405",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Elite%20Roofers&query_place_id=ChIJl1ys8u6fToYRUv6LV2ysYN0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Project Arca Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 16,
+  "street": "325 North St. Paul Street",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://projectarcaroofing.com/",
+  "phone": "(214) 473-6626",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Project%20Arca%20Roofing%20%26%20Construction&query_place_id=ChIJQYwEwHUGA0sRW3M-AKCJ0t8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Firehouse Roofing",
+  "totalScore": 5,
+  "reviewsCount": 287,
+  "street": "5414 Forest Ln Suite B",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://firehouseroofing.com/dallas/",
+  "phone": "(214) 310-0958",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Roofing&query_place_id=ChIJfy061MUhTIYRhSRLQ_EV1Ss",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Blue Hammer Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 1278,
+  "street": "8330 Lyndon B Johnson Fwy B604",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://bluehammerroofing.com/areas-served/dallas/?utm_campaign=gmb&utm_medium=organic&utm_source=google",
+  "phone": "(469) 564-8357",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Hammer%20Roofing&query_place_id=ChIJvwSuXbyHToYRCpWVYndAiPA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lone Star Roofing & General Contractors",
+  "totalScore": 4.9,
+  "reviewsCount": 37,
+  "street": "4849 Greenville Ave suite 144",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://lonestarroofinggc.com/",
+  "phone": "(972) 469-1102",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lone%20Star%20Roofing%20%26%20General%20Contractors&query_place_id=ChIJPzGEmNbMV64R3519D9sG4FQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Bert Roofing Inc.",
+  "totalScore": 4.8,
+  "reviewsCount": 125,
+  "street": "10021 Cayuga Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://bertroofing.com/?utm_campaign=gmb",
+  "phone": "(214) 239-2699",
+  "categories": [
+    "Roofing contractor",
+    "Skylight contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bert%20Roofing%20Inc.&query_place_id=ChIJF7RYyhShToYRuTOyN0KbPcM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Elite Metal Roofing",
+  "totalScore": 5,
+  "reviewsCount": 10,
+  "street": "4725 Junius St #203",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://dallasmetalroofingco.com/",
+  "phone": "(469) 217-3916",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Elite%20Metal%20Roofing&query_place_id=ChIJtbziu3iZToYRCpCBfbCkB08",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Longhorn Commercial Roofing Dallas",
+  "totalScore": 4.7,
+  "reviewsCount": 19,
+  "street": "4811 S Second Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://longhorncommercialroofingdallas.com/commercial-roofing/",
+  "phone": "(214) 774-0280",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Longhorn%20Commercial%20Roofing%20Dallas&query_place_id=ChIJ9Xx7JACjToYRfxGgiZs9C-s",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Bold Roofing - DFW's Best Roofing Contractor",
+  "totalScore": 4.7,
+  "reviewsCount": 603,
+  "street": "10720 Miller Rd #303",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.boldroofing.com/",
+  "phone": "(972) 380-9300",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bold%20Roofing%20-%20DFW's%20Best%20Roofing%20Contractor&query_place_id=ChIJmdEpHyweTIYRqMe2DoY5I8c",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Reformed Roofing & Contracting",
+  "totalScore": 5,
+  "reviewsCount": 69,
+  "street": "5639 Dyer St Suite 200",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.reformed-roofing.com/",
+  "phone": "(972) 946-1775",
+  "categories": [
+    "Roofing contractor",
+    "Deck builder",
+    "Door supplier",
+    "Fence contractor",
+    "Gutter cleaning service",
+    "Siding contractor",
+    "Window installation service",
+    "Window supplier"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Reformed%20Roofing%20%26%20Contracting&query_place_id=ChIJKzIodvfiCIQRjtJOVCTkKgE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "T Rock Roofing & Contracting",
+  "totalScore": 4.9,
+  "reviewsCount": 709,
+  "street": "9330 Lyndon B Johnson Fwy #900",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.dallasroofer.com/",
+  "phone": "(469) 931-9867",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=T%20Rock%20Roofing%20%26%20Contracting&query_place_id=ChIJ0zzq1_EfTIYRSe3cSOmUPvw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Supreme Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 55,
+  "street": "1355 N Walton Walker Blvd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.supremeroofing.com/?utm_campaign=gmb",
+  "phone": "(214) 833-6822",
+  "categories": [
+    "Roofing contractor",
+    "Commercial real estate inspector",
+    "Construction company",
+    "Contractor",
+    "Metal construction company",
+    "Sheet metal contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Supreme%20Roofing&query_place_id=ChIJDR6bfyybToYRLxbFWCHJPTw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Gallery Built Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 186,
+  "street": "6060 N Central Expy Suite 500",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Gallery%20Built%20Roofing&query_place_id=ChIJVVUljQ2fToYRhXvaTK_XwQM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Creation Roofing and Foundation",
+  "totalScore": 5,
+  "reviewsCount": 35,
+  "street": "750 North St. Paul Street #201",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.creationroofingandfoundation.com/",
+  "phone": "(214) 893-0843",
+  "categories": [
+    "Roofing contractor",
+    "Electrician",
+    "Interior designer",
+    "Landscape designer",
+    "Painter",
     "Plumber",
+    "Remodeler",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Creation%20Roofing%20and%20Foundation&query_place_id=ChIJLzgrjlmnToYRobgcfwviF7c",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "ACO Roofing & Gutters",
+  "totalScore": 5,
+  "reviewsCount": 71,
+  "street": "8035 E R L Thornton Fwy #269",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "Excavating contractor",
+    "Fire damage restoration service",
+    "Water damage restoration service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=ACO%20Roofing%20%26%20Gutters&query_place_id=ChIJL3e7rTEfTIYRXOk8vlif4vI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Hernandez & Sons Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 77,
+  "street": "11825 Preston Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://hernandezroofing.online/dallas",
+  "phone": "(469) 460-9747",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hernandez%20%26%20Sons%20Roofing%20%26%20Construction&query_place_id=ChIJmeGX2hshTIYR_zfhOxBIn4g",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Commercial Roofing",
+  "totalScore": 5,
+  "reviewsCount": 4,
+  "street": "4514 Cole Ave # 600",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://dcr-us.com/",
+  "phone": "(214) 295-5444",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Commercial%20Roofing&query_place_id=ChIJB8DqJjcpTIYRIF6Yi_YrAj0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Silver Creek Roofing Services",
+  "totalScore": 5,
+  "reviewsCount": 11,
+  "street": "158 Farmers Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(682) 213-6994",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Silver%20Creek%20Roofing%20Services&query_place_id=ChIJ52HURLGZToYR2hJooHsh_O0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roof Repair Dallas Masters",
+  "totalScore": 5,
+  "reviewsCount": 56,
+  "street": "13111 N Central Expy #913",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://roofrepairdallasmasters.com/",
+  "phone": "(469) 807-7850",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roof%20Repair%20Dallas%20Masters&query_place_id=ChIJz81grY8hTIYRJLps-m3yQO8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "D1 Roofing & Contracting",
+  "totalScore": 4.8,
+  "reviewsCount": 42,
+  "street": "2919 Commerce St Suite #156",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://thinkd1.com/",
+  "phone": "(469) 363-2609",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Contractor",
+    "Gutter cleaning service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=D1%20Roofing%20%26%20Contracting&query_place_id=ChIJX9jC-4ufToYRE6l12HsAO-U",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Network Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 164,
+  "street": "12222 Merit Dr Suite 130",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://networkroofingconstruction.com/",
+  "phone": "(972) 299-3070",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Network%20Roofing%20%26%20Construction&query_place_id=ChIJ1TRrTYAhTIYRYr5Pl1xZmcQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Accent Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 17,
+  "street": "4516 Lovers Ln #146",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://accentroofing.com/contact/",
+  "phone": "(214) 295-5500",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Accent%20Roofing%20%26%20Construction&query_place_id=ChIJ59QOsl-eToYR7IkV9VoEwZo",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Commercial Flat Roofing of Dallas",
+  "totalScore": 4.6,
+  "reviewsCount": 43,
+  "street": "11061 Shady Trail",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://commercialflatroofingofdallas.com/commercial-roofing/",
+  "phone": "(214) 484-0950",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Flat%20Roofing%20of%20Dallas&query_place_id=ChIJ808u5_udToYR3sfWGXq-IYw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "911 Exteriors Roofing and Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 381,
+  "street": "2302 Parkside Ave",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.911exteriors.com/",
+  "phone": "(972) 243-6700",
+  "categories": [
+    "Roofing contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=911%20Exteriors%20Roofing%20and%20Construction&query_place_id=ChIJS2pTWXCdToYResjUXoeNbJQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Fetch Roofing",
+  "totalScore": 5,
+  "reviewsCount": 118,
+  "street": "4111 US-80 Suite 107",
+  "city": "Mesquite",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://fetchroofing.com/",
+  "phone": "(972) 928-0691",
+  "categories": [
+    "Roofing contractor",
+    "General contractor",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Fetch%20Roofing&query_place_id=ChIJOWgDhHWlToYR0ueeGZrFBdU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Meyer's Pride Roofing LLC",
+  "totalScore": 5,
+  "reviewsCount": 61,
+  "street": "6119 Greenville Ave #217",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://meyerspride.com/?UTM_source=GMB_listing&UTM_medium=organic",
+  "phone": "(469) 933-1291",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Meyer's%20Pride%20Roofing%20LLC&query_place_id=ChIJFVoVTJifToYRgKKm-C-ibj8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Under One Roof - Roofing and Construction",
+  "totalScore": 5,
+  "reviewsCount": 103,
+  "street": "13135 Rosser Rd",
+  "city": "Farmers Branch",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://underoneroof-tx.com/",
+  "phone": "(214) 649-5984",
+  "categories": [
+    "Roofing contractor",
+    "General contractor",
+    "Gutter cleaning service",
+    "Siding contractor",
+    "Solar energy system service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Under%20One%20Roof%20-%20Roofing%20and%20Construction&query_place_id=ChIJATksH9LwbyQRGakQT4R3P0g",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Autograph Construction",
+  "totalScore": 4.8,
+  "reviewsCount": 146,
+  "street": null,
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://autographconstruction.com/",
+  "phone": "(214) 210-0202",
+  "categories": [
+    "Roofing contractor",
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Autograph%20Construction&query_place_id=ChIJ-5ut3V8zTIYR6_MvyEyVg3I",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Paragon Roofing LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 11,
+  "street": "1601 N Walton Walker Blvd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://paragonroofing.us/",
+  "phone": "(214) 630-6363",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Paragon%20Roofing%20LLC&query_place_id=ChIJp5igPWKdToYRyljhBlFhJKc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Swordsmen Roofing & Construction, LLC",
+  "totalScore": 5,
+  "reviewsCount": 157,
+  "street": "1380 River Bend Dr STE 124",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://swordsmenroofing.com/",
+  "phone": "(972) 979-6197",
+  "categories": [
+    "Roofing contractor",
+    "Construction company"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Swordsmen%20Roofing%20%26%20Construction%2C%20LLC&query_place_id=ChIJeRZUyrExTIYRAbUzzCL1chU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Commercial Roofing Contractors",
+  "totalScore": 4.5,
+  "reviewsCount": 26,
+  "street": "11166 Ables Ln Unit B",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://dallascommercialroofingcontractors.net/commercial-roofing/",
+  "phone": "(469) 532-7474",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Commercial%20Roofing%20Contractors&query_place_id=ChIJ9XTMXY-dToYRVLx3_4eMA_M",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lon Smith Roofing",
+  "totalScore": 4.6,
+  "reviewsCount": 113,
+  "street": "10821 Sanden Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.lonsmith.com/",
+  "phone": "(214) 221-1400",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lon%20Smith%20Roofing&query_place_id=ChIJzWstfiAeTIYR6tFtqyG8QAI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Metal Roofing Dallas",
+  "totalScore": 4.6,
+  "reviewsCount": 44,
+  "street": "8500 N Stemmons Fwy",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.metalroofingdallas.net/",
+  "phone": "(469) 484-7507",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Metal%20Roofing%20Dallas&query_place_id=ChIJlWfvDFycToYRie6-S1TT6PA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Precision Roofing and Construction",
+  "totalScore": 5,
+  "reviewsCount": 156,
+  "street": "675 Town Square Blvd Suite 200, Building 1A",
+  "city": "Garland",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://txprecisionroofs.com/",
+  "phone": "",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Precision%20Roofing%20and%20Construction&query_place_id=ChIJJd8eMrNY1kERpUuFrZam7CI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lifetime Roofing of America",
+  "totalScore": 4.8,
+  "reviewsCount": 107,
+  "street": "2412 Richland Ave suite 102",
+  "city": "Farmers Branch",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.lifetimeroofingofamerica.com/",
+  "phone": "(972) 931-7898",
+  "categories": [
+    "Roofing contractor",
     "Repair service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=GEI%20Plumbing%20Services%20Houston&query_place_id=ChIJg4AUYJLpQIYRIfwq_Qg_EAA",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Lifetime%20Roofing%20of%20America&query_place_id=ChIJQeXsmWSdToYRy17V1ufPFVc",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "H-Town Plumbers",
-  "totalScore": 4.9,
-  "reviewsCount": 291,
-  "street": "12145 Stone E Dr",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.htownplumbers.com/",
-  "phone": "(832) 318-0390",
-  "categories": [
-    "Plumber"
-  ],
-  "url": "https://www.google.com/maps/search/?api=1&query=H-Town%20Plumbers&query_place_id=ChIJh_OV1SPpQIYRlwqsZdAz0Pw",
-  "categoryName": "Plumber"
-},
-{
-  "title": "Luke's Plumbing & Air Conditioning",
+  "title": "Robinson Brothers Roofing & Construction",
   "totalScore": 4.8,
-  "reviewsCount": 307,
-  "street": "3548 E T C Jester Blvd",
-  "city": "Houston",
+  "reviewsCount": 68,
+  "street": "1122 W Camp Wisdom Rd",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://calllukes.com/?utm_source=google&utm_medium=gbp",
-  "phone": "(713) 766-4887",
+  "website": "https://robinsonroofing.site/dallas",
+  "phone": "(469) 940-4602",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Robinson%20Brothers%20Roofing%20%26%20Construction&query_place_id=ChIJA-sCbICRToYRpriQ2DnM2kU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lions Crown Roofing",
+  "totalScore": 5,
+  "reviewsCount": 13,
+  "street": "3839 McKinney Ave STE 155",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://lionscrownroofing.com/dallas",
+  "phone": "(713) 471-0384",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lions%20Crown%20Roofing&query_place_id=ChIJuZP3C7ifToYRNmxlaqXyotA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "JUST ROOF GENERAL CONTRACTORS LLC",
+  "totalScore": 4.7,
+  "reviewsCount": 73,
+  "street": "8330 Lyndon B Johnson Fwy Suite #678",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://roofremodelingsolution.com/",
+  "phone": "(469) 797-6747",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=JUST%20ROOF%20GENERAL%20CONTRACTORS%20LLC&query_place_id=ChIJM5bYJPQfTIYRTQWWgakS_aw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Metal Roofs LLC",
+  "totalScore": 5,
+  "reviewsCount": 67,
+  "street": "10907 Shady Trail #106",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.dallasmetalroofs.com/",
+  "phone": "(214) 244-5349",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Metal%20Roofs%20LLC&query_place_id=ChIJyVKYcGWdToYRvJO7IItSx0E",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Haro Roofing",
+  "totalScore": 5,
+  "reviewsCount": 10,
+  "street": "1826 W Commerce St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.haroroofingtx.com/",
+  "phone": "(830) 730-0284",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Haro%20Roofing&query_place_id=ChIJp1e14A8nTIYRdMa3mCCq97U",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Robinson Brothers Roofing LLC",
+  "totalScore": 4.8,
+  "reviewsCount": 89,
+  "street": "1109 S MacArthur Blvd",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://robinsonroofing.online/irving",
+  "phone": "(469) 290-1335",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Robinson%20Brothers%20Roofing%20LLC&query_place_id=ChIJdcw4ftyDToYRszxIjq3gVMk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Vets Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 495,
+  "street": "818 Dalworth Dr A",
+  "city": "Mesquite",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.texasvetsroofing.com/",
+  "phone": "(972) 288-7663",
+  "categories": [
+    "Roofing contractor",
+    "Fence contractor",
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Vets%20Roofing&query_place_id=ChIJA_c3qYe-ToYRne9tn_D9Hmk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Mighty Dog Roofing Dallas",
+  "totalScore": 4.5,
+  "reviewsCount": 34,
+  "street": "5960 Berkshire Ln floor 6",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.mightydogroofing.com/dallas",
+  "phone": "(214) 978-3837",
+  "categories": [
+    "Roofing contractor",
+    "Siding contractor",
+    "Window installation service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mighty%20Dog%20Roofing%20Dallas&query_place_id=ChIJpQo8WRGfToYRMJ2ZdXlziYc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Morales Roofers",
+  "totalScore": 4.9,
+  "reviewsCount": 250,
+  "street": "2022 113th St Suite 104",
+  "city": "Grand Prairie",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.moralesroofers.com/?utm_source=Google&utm_medium=Organic&utm_campaign=GMB&utm_id=Morales+Roofers",
+  "phone": "(469) 363-9649",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Morales%20Roofers&query_place_id=ChIJg9fFAsiDToYRUuaf-pyVtgM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Artisan Roofing and Solar",
+  "totalScore": 5,
+  "reviewsCount": 111,
+  "street": "1850 Crown Dr suite 1111",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://acsroofing.net/",
+  "phone": "(972) 854-9212",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Artisan%20Roofing%20and%20Solar&query_place_id=ChIJd7x3TywkTIYRsSuognh8NSE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Rivera & Sons Roofers LLC",
+  "totalScore": 4.8,
+  "reviewsCount": 92,
+  "street": "1112 N Josey Ln",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://riveraroofers.online/carrollton",
+  "phone": "(469) 936-4001",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rivera%20%26%20Sons%20Roofers%20LLC&query_place_id=ChIJl2jQB1wnTIYR2ZP-xw0f6ww",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "StazOn Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 29,
+  "street": "2860 Lombardy Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://stazonroof.com/",
+  "phone": "(214) 357-0300",
+  "categories": [
+    "Roofing contractor",
+    "General contractor",
+    "Metal fabricator",
+    "Sheet metal contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=StazOn%20Roofing&query_place_id=ChIJjy1ObKCdToYRXHfUbhUY4Fc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Top Notch Roofers Dallas",
+  "totalScore": 4.6,
+  "reviewsCount": 20,
+  "street": "10239 Gardner Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://topnotchroofersdallas.com/",
+  "phone": "(214) 273-8831",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Notch%20Roofers%20Dallas&query_place_id=ChIJ4dKi_NFr9ogRgAxVr41_yp4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Trinity Roofing Solutions",
+  "totalScore": 5,
+  "reviewsCount": 23,
+  "street": "5473 Blair Rd # 100",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.trinityroofingsolutions.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=8687614316230600304",
+  "phone": "(469) 203-3778",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Trinity%20Roofing%20Solutions&query_place_id=ChIJZ_5btlqfToYR8gmtjyA7xsA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roger's Master Roofing",
+  "totalScore": 5,
+  "reviewsCount": 37,
+  "street": "633 W Davis St Suite 250",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.rogersmasterroofing.com/",
+  "phone": "(972) 513-5082",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roger's%20Master%20Roofing&query_place_id=ChIJnWnYXHiZToYR-n-KHBezRLw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Vertice Roofing & General Contractors, LLC",
+  "totalScore": 5,
+  "reviewsCount": 32,
+  "street": "12222 Merit Dr Suite 130",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://verticeroofing.com/?utm_source=google-business&utm_medium=organic",
+  "phone": "(972) 799-7075",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vertice%20Roofing%20%26%20General%20Contractors%2C%20LLC&query_place_id=ChIJTV-3cYRdTggRnmi_jL92iEU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Bare Roofing Dallas",
+  "totalScore": 5,
+  "reviewsCount": 38,
+  "street": "11329 Indian Trail",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://bareroofingtx.com/",
+  "phone": "(469) 589-6906",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bare%20Roofing%20Dallas&query_place_id=ChIJWWbb-f4nTIYRoJ2aeYUXRWg",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Top Sun Roofing & Foundations",
+  "totalScore": 4.9,
+  "reviewsCount": 71,
+  "street": "10935 Estate Ln S305",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.topsunroofing.com/",
+  "phone": "(844) 486-7786",
+  "categories": [
+    "Roofing contractor",
+    "Foundation"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Sun%20Roofing%20%26%20Foundations&query_place_id=ChIJ28VNzoVjwqQRnE7_o4fD_RA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Michael Young Roofing & Construction, Inc.",
+  "totalScore": 4.8,
+  "reviewsCount": 97,
+  "street": "2727 Lyndon B Johnson Fwy Suite 770",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.michaelyoungroofing.com/",
+  "phone": "(469) 274-4900",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Michael%20Young%20Roofing%20%26%20Construction%2C%20Inc.&query_place_id=ChIJAQAwhpgnTIYR-qJydhMnbI8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Myriad Roofing & Construction LLC",
+  "totalScore": 5,
+  "reviewsCount": 44,
+  "street": "6060 N Central Expy Suite: 500",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(214) 417-9144",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Myriad%20Roofing%20%26%20Construction%20LLC&query_place_id=ChIJVVUVVyUhTIYRYsA3gtFhiIU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Sky's Roofing And Exterior Inc.",
+  "totalScore": 4.3,
+  "reviewsCount": 20,
+  "street": "1327 Empire Central Dr #108",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.skysroofing.com/",
+  "phone": "(214) 774-4420",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sky's%20Roofing%20And%20Exterior%20Inc.&query_place_id=ChIJa50tZ1ycToYRF_CoY0ZC9Tk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Sun Commercial Roofs",
+  "totalScore": 4.5,
+  "reviewsCount": 11,
+  "street": "7611 John W. Carpenter Fwy",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.suncoroofs.com/",
+  "phone": "(214) 350-7770",
+  "categories": [
+    "Roofing contractor",
+    "Roofing supply store"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sun%20Commercial%20Roofs&query_place_id=ChIJrTQAUfGcToYRbBZ87PycgZ8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "DLV Roofing Dallas LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 26,
+  "street": "2947 Blystone Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://dlvroofing.com/locations/dallas-fort-worth-tx/",
+  "phone": "(469) 936-0212",
+  "categories": [
+    "Roofing contractor",
+    "General contractor",
+    "Skylight contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=DLV%20Roofing%20Dallas%20LLC&query_place_id=ChIJDRhhDeydToYRiqnhGIcMWmc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Shepherd Commercial Roofing",
+  "totalScore": 5,
+  "reviewsCount": 17,
+  "street": "8080 N Central Expy # 1700",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.shepherdcommercialroofing.com/",
+  "phone": "(214) 664-9587",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shepherd%20Commercial%20Roofing&query_place_id=ChIJV8sQ57afToYRBt5TgN_Id94",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "KPost Roofing & Waterproofing",
+  "totalScore": 4.9,
+  "reviewsCount": 840,
+  "street": "1841 W Northwest Hwy",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://kpostcompany.com/?utm_source=google&utm_medium=organic&utm_campaign=GMBListing-Dallas-TX",
+  "phone": "(469) 898-8183",
+  "categories": [
+    "Roofing contractor",
+    "Sheet metal contractor",
+    "Solar energy company",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=KPost%20Roofing%20%26%20Waterproofing&query_place_id=ChIJLf5LQUmdToYRbR3_mXjNHWI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Custom Pro Roofing and solar",
+  "totalScore": 3.3,
+  "reviewsCount": 109,
+  "street": "1910 Pacific Ave Suite 17060",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://custompro.us/",
+  "phone": "(229) 264-4313",
+  "categories": [
+    "Solar energy company",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Custom%20Pro%20Roofing%20and%20solar&query_place_id=ChIJRayrsUanToYRxZYCKAV-XyA",
+  "categoryName": "Solar energy company"
+},
+{
+  "title": "Results Roofing",
+  "totalScore": 5,
+  "reviewsCount": 1673,
+  "street": "2828 E Trinity Mls Rd Ste 212",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://resultsroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb&utm_content=carrollton",
+  "phone": "(469) 270-8037",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Results%20Roofing&query_place_id=ChIJEzx12P7XTYYRgIFO5YhFeNs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Metroplex Roofing and Remodeling-MRR",
+  "totalScore": 4.9,
+  "reviewsCount": 47,
+  "street": "5445 Caruth Haven Ln #1321",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(214) 994-3408",
+  "categories": [
+    "Roofing contractor",
+    "Building restoration service",
+    "Contractor",
+    "Deck builder",
+    "Fence contractor",
+    "Masonry contractor",
+    "Painting",
+    "Siding contractor",
+    "Stucco contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Metroplex%20Roofing%20and%20Remodeling-MRR&query_place_id=ChIJ92Q8dcSeToYRl5Q0yj3XZA4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Hybrid Roofing",
+  "totalScore": 5,
+  "reviewsCount": 122,
+  "street": "511 E John W Carpenter Fwy",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://hybridroofingllc.com/",
+  "phone": "(469) 773-3856",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hybrid%20Roofing&query_place_id=ChIJ6w4Sm2mPUacR0RXxwR4xs_U",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roofmaster Maintenance, Inc.",
+  "totalScore": 5,
+  "reviewsCount": 10,
+  "street": "8900 Ambassador Row",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://roofmasterdfw.com/",
+  "phone": "(214) 331-0544",
+  "categories": [
+    "Roofing contractor",
+    "Sheet metal contractor",
+    "Skylight contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofmaster%20Maintenance%2C%20Inc.&query_place_id=ChIJIZGQcAmcToYRvsuhnWoXomU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Wright Brothers Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 117,
+  "street": "1300 N Bluegrove Rd",
+  "city": "Lancaster",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://wrightroofing.pro/lancaster",
+  "phone": "(469) 960-3707",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Wright%20Brothers%20Roofing%20%26%20Construction&query_place_id=ChIJgUdev3WVToYRRDJgUFMfbKg",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Titan Pros Roofing- DFW",
+  "totalScore": 4.7,
+  "reviewsCount": 23,
+  "street": "3130 Harvard Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://titanprosroofing.com/",
+  "phone": "(972) 590-8955",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Titan%20Pros%20Roofing-%20DFW&query_place_id=ChIJq0_rm7qanmcRgCc7OQc8ruI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roofing Ranger",
+  "totalScore": 5,
+  "reviewsCount": 386,
+  "street": "1510 Randolph St Suit 607",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://roofingranger.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "phone": "(469) 810-0444",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofing%20Ranger&query_place_id=ChIJubWOhC0lTIYRCpFGf3JzK1s",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Firehouse Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 240,
+  "street": "4001 Industrial St",
+  "city": "Rowlett",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://firehouseroofing.com/rowlett/",
+  "phone": "(469) 457-2133",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Firehouse%20Roofing&query_place_id=ChIJT-Bqdx2oToYR0I5yAryIpB8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "United Roofing Services",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "1226 Morrell Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://unitedroofingservice.com/",
+  "phone": "(214) 256-3796",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=United%20Roofing%20Services&query_place_id=ChIJL5VxC5SZToYRPrgEawRtGqQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Stamper Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 88,
+  "street": "14200 Midway Rd #107b",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.stamperroofing.com/",
+  "phone": "(214) 643-6309",
+  "categories": [
+    "Roofing contractor",
+    "Construction company"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Stamper%20Roofing%20%26%20Construction&query_place_id=ChIJgatsSt8dTIYRhmcRE4TjsrA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Superior One Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 246,
+  "street": "1313 Valwood Pkwy #240",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.s1roofing.com/",
+  "phone": "(972) 893-3374",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Superior%20One%20Roofing%20%26%20Construction&query_place_id=ChIJnTWS3_IrTIYRAVT8R_lZD68",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Precision Roofing",
+  "totalScore": 5,
+  "reviewsCount": 44,
+  "street": "5160 Cardiff St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://metalroofingdallastx.net/",
+  "phone": "(321) 358-0420",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Precision%20Roofing&query_place_id=ChIJM4LCSBeXToYR6TaJawIkzx8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Blue Nail Roofing & Construction",
+  "totalScore": 4.8,
+  "reviewsCount": 328,
+  "street": "217 S Belt Line Rd",
+  "city": "Grand Prairie",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://bluenailroofing.com/",
+  "phone": "(855) 255-1975",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Nail%20Roofing%20%26%20Construction&query_place_id=ChIJP8qhOCOmToYRk8aST9RbPaw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lifetime Quality Roofing Dallas Fort Worth",
+  "totalScore": 5,
+  "reviewsCount": 7,
+  "street": "8330 Lyndon B Johnson Fwy STE B255",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://lifetimequalityroofing.com/dallas-roofing/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=5243975492538226309",
+  "phone": "(214) 833-7663",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lifetime%20Quality%20Roofing%20Dallas%20Fort%20Worth&query_place_id=ChIJoQ2Qb8ohTIYRPRdE9SuxyLc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Integrity Restoration LLC",
+  "totalScore": 5,
+  "reviewsCount": 9,
+  "street": "603 Munger Ave suite 100-209",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Integrity%20Restoration%20LLC&query_place_id=ChIJgxmje6MZWEgRwmrvAWWRWIY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "RX Roof LLC",
+  "totalScore": 4.6,
+  "reviewsCount": 225,
+  "street": "2201 Midway Rd Apt 114",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://rxroof.com/",
+  "phone": "(972) 512-0833",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=RX%20Roof%20LLC&query_place_id=ChIJOSEsCrEmTIYRvLay4TkYZk4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Ready Roofing & Solar",
+  "totalScore": 4.9,
+  "reviewsCount": 182,
+  "street": "13140 Coit Rd #510",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://readyrooftx.com/",
+  "phone": "(972) 736-9468",
+  "categories": [
+    "Roofing contractor",
+    "Solar energy system service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Ready%20Roofing%20%26%20Solar&query_place_id=ChIJP75AcvA8TIYR5wK53K-U8CY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Green Star Commercial Roofing",
+  "totalScore": 5,
+  "reviewsCount": 26,
+  "street": "3010 Lyndon B Johnson Fwy Ste.1295",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.greenstarcommercialroofing.com/",
+  "phone": "(469) 656-5624",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Fire damage restoration service",
+    "General contractor",
+    "Metal construction company",
+    "Paving contractor",
+    "Remodeler",
+    "Roofing supply store",
+    "Sunroom contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Green%20Star%20Commercial%20Roofing&query_place_id=ChIJMSw8SceZToYRcE8cj1eahIE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Vaso Construction & Roofing LLC",
+  "totalScore": 5,
+  "reviewsCount": 72,
+  "street": "4630 W Amherst Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://vasoconstruction.com/",
+  "phone": "(469) 556-9402",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Vaso%20Construction%20%26%20Roofing%20LLC&query_place_id=ChIJaSHvhzifToYRmpsjQZglPpY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Tucker Roofing",
+  "totalScore": 5,
+  "reviewsCount": 15,
+  "street": "8525 Ferndale Rd #104",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://tuckerroofingsystems.com/",
+  "phone": "(972) 771-6488",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Tucker%20Roofing&query_place_id=ChIJEaJC-nGhToYRZj9Vp0VFmZM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Medrano Roofing DFW",
+  "totalScore": 4.8,
+  "reviewsCount": 91,
+  "street": "3029 Oradell Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.medranoroofingdfw.com/",
+  "phone": "(214) 957-3948",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Medrano%20Roofing%20DFW&query_place_id=ChIJ1wgSSKWdToYRqswYGlfHKv8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "RPA Roofing Supply",
+  "totalScore": 5,
+  "reviewsCount": 18,
+  "street": "1381 Crampton St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.rparoofingsupply.com/",
+  "phone": "(940) 435-0457",
+  "categories": [
+    "Roofing supply store"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=RPA%20Roofing%20Supply&query_place_id=ChIJNTqjsw_LTYYRjtuhqH1cHkE",
+  "categoryName": "Roofing supply store"
+},
+{
+  "title": "Chavez Family",
+  "totalScore": 4.8,
+  "reviewsCount": 110,
+  "street": "3816 W Clarendon Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://chavezroofing.best/",
+  "phone": "(469) 780-8781",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Chavez%20Family&query_place_id=ChIJoar4hOCbToYR3OQ5elaiL4U",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Acorn Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 81,
+  "street": "16990 Dallas Pkwy # 215",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://acornroof.com/service-areas/dallas-roofing-company/?utm_source=google&utm_medium=gbp&utm_campaign=Dallas",
+  "phone": "(214) 437-7353",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Acorn%20Roofing%20%26%20Construction&query_place_id=ChIJxWU1kXYjTIYROpEwulNLm_g",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Bumble Roofing of Greater Dallas",
+  "totalScore": 5,
+  "reviewsCount": 23,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://bumbleroofing.com/greater-dallas/",
+  "phone": "(469) 769-4636",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bumble%20Roofing%20of%20Greater%20Dallas&query_place_id=ChIJgeXklvMU9QcR2CckWeKqESw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Zeus Exteriors, LLC",
+  "totalScore": 5,
+  "reviewsCount": 174,
+  "street": "2815 Valley View Ln #210",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.zeusexteriors.com/",
+  "phone": "(817) 440-3699",
+  "categories": [
+    "Roofing contractor",
+    "Fence contractor",
+    "Gutter cleaning service",
+    "Window installation service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Zeus%20Exteriors%2C%20LLC&query_place_id=ChIJky9HPCg7TIYRi7xnkPcTVso",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "NTX Roofing Solutions",
+  "totalScore": 4.9,
+  "reviewsCount": 104,
+  "street": "4101 McEwen Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.ntxroofingsolutions.com/",
+  "phone": "(817) 715-0258",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=NTX%20Roofing%20Solutions&query_place_id=ChIJs_5NeYpxToYRJnsmaguLYzE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "The Roof Tile and Slate Company",
+  "totalScore": 4.6,
+  "reviewsCount": 29,
+  "street": "3126 Commonwealth Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://claytile.com/",
+  "phone": "(972) 446-0005",
+  "categories": [
+    "Roofing supply store"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Roof%20Tile%20and%20Slate%20Company&query_place_id=ChIJZW_omXGcToYR0avgIOchZo4",
+  "categoryName": "Roofing supply store"
+},
+{
+  "title": "Mesquite Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 98,
+  "street": "701 TX-352",
+  "city": "Mesquite",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://mesquiteroofingandconstruction.com/?utm_source=omg-gbp&utm_medium=webclick",
+  "phone": "(972) 681-3183",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Flooring contractor",
+    "Painting"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Mesquite%20Roofing%20%26%20Construction&query_place_id=ChIJf3QvqgqlToYRPSFR9dDh96o",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "AIM Roofing",
+  "totalScore": 5,
+  "reviewsCount": 143,
+  "street": "1106 Cypress Dr",
+  "city": "Mesquite",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://aimroofingtx.com/",
+  "phone": "(469) 769-9241",
+  "categories": [
+    "Roofing contractor",
+    "Construction company"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=AIM%20Roofing&query_place_id=ChIJFZLolXcrhwURqvW2VP-ZMxw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Storm Roofing Heroes Dallas",
+  "totalScore": 5,
+  "reviewsCount": 51,
+  "street": "7112 Radcliff Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://stormroofingheroes.com/",
+  "phone": "(214) 809-8078",
+  "categories": [
+    "Roofing contractor",
+    "Water damage restoration service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Storm%20Roofing%20Heroes%20Dallas&query_place_id=ChIJzaRYrsOjToYRbg2Od1QMMQ4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Kemendo Roofing and Construction Co",
+  "totalScore": 5,
+  "reviewsCount": 12,
+  "street": "4069 Amherst Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.kemendoconstruction.com/contact-us/",
+  "phone": "(214) 384-2082",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kemendo%20Roofing%20and%20Construction%20Co&query_place_id=ChIJAQDkLFieToYREVxL2rguCR4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Sunshine Roofing",
+  "totalScore": 5,
+  "reviewsCount": 185,
+  "street": "17215 Marianne Cir",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://sunshineroofingtx.com/",
+  "phone": "(214) 532-8878",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sunshine%20Roofing&query_place_id=ChIJZ24ms9cjTIYRcESgz1nzsMI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "A Star Roofing of Texas",
+  "totalScore": 5,
+  "reviewsCount": 92,
+  "street": "7601 Circle Dr",
+  "city": "Fort Worth",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.astarroofingoftexas.com/",
+  "phone": "(469) 344-0020",
+  "categories": [
+    "Roofing contractor",
+    "General contractor",
+    "Screen repair service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=A%20Star%20Roofing%20of%20Texas&query_place_id=ChIJOfPA5kAc4qoRb1E14-jSt28",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Alpine Roofing Construction",
+  "totalScore": 4.7,
+  "reviewsCount": 67,
+  "street": "13528 Floyd Cir",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://alpineroofingconstruction.com/?utm_source=google-business&utm_medium=organic",
+  "phone": "(214) 528-9897",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alpine%20Roofing%20Construction&query_place_id=ChIJ86_6Xi2ZToYRGJhxMKgF3_M",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "DAR Roofing General Contractors",
+  "totalScore": 5,
+  "reviewsCount": 114,
+  "street": "2727 Lyndon B Johnson Fwy Ste 785",
+  "city": "Farmers Branch",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.darroofinggc.com/",
+  "phone": "(315) 836-4542",
+  "categories": [
+    "Roofing contractor",
+    "Fence contractor",
+    "Garage door supplier",
+    "HVAC contractor",
+    "Painter",
+    "Siding contractor",
+    "Window installation service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=DAR%20Roofing%20General%20Contractors&query_place_id=ChIJZU1P5eQgHQ8RbA9YdXmN8ZI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "United Commercial Roofing",
+  "totalScore": 4.6,
+  "reviewsCount": 13,
+  "street": "8787 N Stemmons Fwy # 210",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://unitedcommercialroofing.com/commercial-roofing/",
+  "phone": "(945) 280-4624",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=United%20Commercial%20Roofing&query_place_id=ChIJT-RJdSCdToYRcm4dBWug4fA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Blue Roofing, LLC",
+  "totalScore": 5,
+  "reviewsCount": 137,
+  "street": "2408 E Trinity Mls Rd Apt 120",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.roof.blue/",
+  "phone": "(214) 865-6256",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Roofing%2C%20LLC&query_place_id=ChIJC5L7pkUlTIYRm7vwysdBZQw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Roof Doctors",
+  "totalScore": 5,
+  "reviewsCount": 11,
+  "street": "12700 Hillcrest Rd #117",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://dallasroofdoctors.com/",
+  "phone": "(972) 999-4396",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Roof%20Doctors&query_place_id=ChIJOdwidSwhTIYRm8TBaDjclHM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "CLC Roofing Inc.",
+  "totalScore": 4.9,
+  "reviewsCount": 583,
+  "street": "200 E Belt Line Rd #203",
+  "city": "Coppell",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.clcroofing.com/?utm_campaign=gmb&utm_medium=organic&utm_source=gmb",
+  "phone": "(972) 304-4431",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=CLC%20Roofing%20Inc.&query_place_id=ChIJjxbjnFgpTIYRs3r5nqxJsvI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "From On High Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 47,
+  "street": "610 Uptown Blvd ste 2000",
+  "city": "Cedar Hill",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.reggietheroofer.com/",
+  "phone": "(469) 992-0047",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=From%20On%20High%20Roofing%20%26%20Construction&query_place_id=ChIJyzrCqcOfToYR5wZ71vlKTy0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "C&C ROOFING DEPOT",
+  "totalScore": 4.8,
+  "reviewsCount": 23,
+  "street": "10925 Shady Trail",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://cncroofingdepot.com/",
+  "phone": "(214) 916-7800",
+  "categories": [
+    "Roofing supply store"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=C%26C%20ROOFING%20DEPOT&query_place_id=ChIJBcvJa2WdToYRNkX0_OH5Tc0",
+  "categoryName": "Roofing supply store"
+},
+{
+  "title": "Stronghouse",
+  "totalScore": 4.8,
+  "reviewsCount": 1436,
+  "street": "4131 Centurion Way",
+  "city": "Addison",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://stronghousebrands.com/service-area/dallas/",
+  "phone": "(469) 268-4091",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Stronghouse&query_place_id=ChIJT1GyZnUnTIYREQbdA5tnQx8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "United Roofing Services, LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 39,
+  "street": "6742 La Grange Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.unitedroofservicesllc.com/",
+  "phone": "(214) 677-2987",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=United%20Roofing%20Services%2C%20LLC&query_place_id=ChIJvccDplWXToYRoddquGsTuLE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Shalom Roofing LLC",
+  "totalScore": 5,
+  "reviewsCount": 76,
+  "street": "501 Via Sevilla",
+  "city": "Mesquite",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://shalomroofing.net/",
+  "phone": "(214) 256-8021",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shalom%20Roofing%20LLC&query_place_id=ChIJkYv-kZ6nToYRqcZJRZnA0IQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Azalea City Roofing & Construction",
+  "totalScore": 4.2,
+  "reviewsCount": 6,
+  "street": "990 South Saint Paul St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(229) 244-1339",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Azalea%20City%20Roofing%20%26%20Construction&query_place_id=ChIJQ8g3cuVm7ogRZle91pVs4x4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Legends Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 59,
+  "street": "107 Shadow Ln",
+  "city": "Euless",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.legendsroofing.com/",
+  "phone": "(972) 679-4640",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Legends%20Roofing&query_place_id=ChIJ0xJ34qihToYRidXrYBkFMzU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "ADU Roofing",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "2105 Vilbig Rd Ste 110B",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://adurooftx.com/",
+  "phone": "(888) 998-2379",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=ADU%20Roofing&query_place_id=ChIJRyz3SoqbToYRkAUHA7Kv9AA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "TC Roofing and Restorations",
+  "totalScore": 5,
+  "reviewsCount": 190,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.tcroofingexperts.com/",
+  "phone": "(833) 799-7663",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=TC%20Roofing%20and%20Restorations&query_place_id=ChIJwwKdu8cXTIYRbgmidhyXT_8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "The Dallas Roofers",
+  "totalScore": 5,
+  "reviewsCount": 1,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://thedallasroofers.com/",
+  "phone": "(469) 812-8500",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Dallas%20Roofers&query_place_id=ChIJy6F4L_WZToYRNf_GQgzElZM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Southern Roofing And Remodeling LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 32,
+  "street": "10925 Estate Ln suite #205",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.southerntxroofing.com/",
+  "phone": "(469) 992-9287",
+  "categories": [
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Southern%20Roofing%20And%20Remodeling%20LLC&query_place_id=ChIJ_2bB5vGhToYRBA4UOjuvAks",
+  "categoryName": "Contractor"
+},
+{
+  "title": "Peacock Roofing, LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 35,
+  "street": "1209 N.W.Hwy Suite 326",
+  "city": "Garland",
+  "state": "TX",
+  "countryCode": "US",
+  "website": "https://www.peacockroofing.com/?utm_source=GMB&utm_medium=organic&utm_campaign=garland",
+  "phone": "(972) 362-4166",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Peacock%20Roofing%2C%20LLC&query_place_id=ChIJnfz1KSKnToYRY-qcuLzRbgQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "My Roof Roofing Contractor DFW",
+  "totalScore": 4.3,
+  "reviewsCount": 57,
+  "street": "13465 Midway Rd Suite 320",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.myroofus.com/",
+  "phone": "(469) 461-1996",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=My%20Roof%20Roofing%20Contractor%20DFW&query_place_id=ChIJE6ltpmMnTIYRsdq7eE5dzv8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Good Guys Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 44,
+  "street": "17762 Preston Rd #223",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.goodguysroofing.com/",
+  "phone": "(972) 472-4000",
+  "categories": [
+    "Roofing contractor",
+    "Bathroom remodeler",
+    "General contractor",
+    "Home builder",
+    "Kitchen remodeler"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Good%20Guys%20Roofing&query_place_id=ChIJjZiVItIjTIYR2LXyp97D1z0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Sali's Roofing",
+  "totalScore": 5,
+  "reviewsCount": 110,
+  "street": "10930 Switzer Ave #123",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://salisroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp_listing&utm_content=salis_roofing",
+  "phone": "(469) 677-0239",
+  "categories": [
+    "Roofing contractor",
+    "Fence contractor",
+    "Gutter cleaning service",
+    "Siding contractor",
+    "Window installation service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Sali's%20Roofing&query_place_id=ChIJqbaL1r2fToYRyr3txVuptqo",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "The Golden Tree Roofing and Construction LLC",
+  "totalScore": 5,
+  "reviewsCount": 8,
+  "street": "4925 Greenville Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.thegoldentreeroofing.com/",
+  "phone": "(469) 956-7411",
+  "categories": [
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=The%20Golden%20Tree%20Roofing%20and%20Construction%20LLC&query_place_id=ChIJt1jO9-afToYR4Hhlg8UUg9Q",
+  "categoryName": "Contractor"
+},
+{
+  "title": "All American Siding",
+  "totalScore": 5,
+  "reviewsCount": 13,
+  "street": "1421 N Loop 12",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.allamericanroof.net/",
+  "phone": "(972) 254-2654",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=All%20American%20Siding&query_place_id=ChIJzdGtHKGDToYRJ7IHCeBG33U",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Hometown Roofing, Inc",
+  "totalScore": 4.6,
+  "reviewsCount": 45,
+  "street": "304 S Cottonwood Dr",
+  "city": "Richardson",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.hometownroofinginc.net/",
+  "phone": "(469) 583-5228",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Hometown%20Roofing%2C%20Inc&query_place_id=ChIJSezV8qIhTIYRouIv6eYmhRI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Best Roofing Install",
+  "totalScore": 4.8,
+  "reviewsCount": 35,
+  "street": "10652 Wood Dale Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://frugelloyd.shop/",
+  "phone": "(469) 218-9786",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Best%20Roofing%20Install&query_place_id=ChIJrSwj6Q2hToYREC9NTxHqCYs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Perry Brothers Roof Repair",
+  "totalScore": 4.8,
+  "reviewsCount": 71,
+  "street": "720 E Pleasant Run Rd",
+  "city": "DeSoto",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(469) 290-1570",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Perry%20Brothers%20Roof%20Repair&query_place_id=ChIJ9-nt-kiTToYRRmxhndmxvTk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "X Roofing and Solar",
+  "totalScore": 5,
+  "reviewsCount": 176,
+  "street": "940 N Belt Line Rd #121",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://xroofingandsolar.com/",
+  "phone": "(682) 376-2497",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=X%20Roofing%20and%20Solar&query_place_id=ChIJuSnAoAshTIYREzjzGnEvnMU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roofing Solutions of Texas",
+  "totalScore": 4.7,
+  "reviewsCount": 60,
+  "street": "6720 Inwood Dr",
+  "city": "North Richland Hills",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://roofingsolutionsoftexas.com/",
+  "phone": "(817) 726-1369",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofing%20Solutions%20of%20Texas&query_place_id=ChIJ--IMM0nXTYYR5vS0azh4wX4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "USA Roofing, Inc.",
+  "totalScore": 5,
+  "reviewsCount": 26,
+  "street": "1460 N Interstate 35 East Service Rd",
+  "city": "Lancaster",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://usaroofing.com/",
+  "phone": "(972) 263-2938",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=USA%20Roofing%2C%20Inc.&query_place_id=ChIJJVjX-ByUToYRsWdOli4OUiw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Rushing Roofing & Contracting LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 138,
+  "street": "2100 N Greenville Ave Suite 507",
+  "city": "Richardson",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://rushingroofingllc.com/",
+  "phone": "(469) 925-7076",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rushing%20Roofing%20%26%20Contracting%20LLC&query_place_id=ChIJHZIHMAkZTIYRPwt1p035ZZs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Swan Roofing LLC",
+  "totalScore": 4.8,
+  "reviewsCount": 86,
+  "street": "1321 Precision Dr #600",
+  "city": "Plano",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://swanroofing.com/",
+  "phone": "(972) 596-8313",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Swan%20Roofing%20LLC&query_place_id=ChIJTxw1CnciTIYREEALakktv2k",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Reilly Roofing and Gutters",
+  "totalScore": 5,
+  "reviewsCount": 8,
+  "street": "8035 E R L Thornton Fwy #255",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://reillyroofing.com/roofing-company-in-dallas-tx/",
+  "phone": "(214) 764-9631",
+  "categories": [
+    "Roofing contractor",
+    "Roofing supply store"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Reilly%20Roofing%20and%20Gutters&query_place_id=ChIJ9_GGEuajToYRdwRz3eCGmBI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dane Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 123,
+  "street": "17440 Dallas Pkwy Ste 260",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.danesroofing.com/",
+  "phone": "(469) 585-3263",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dane%20Roofing&query_place_id=ChIJjwK5h_sjTIYRq6jl0VzAkUE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Empire Roofing and Solar LLC",
+  "totalScore": 4.8,
+  "reviewsCount": 113,
+  "street": "8330 Lyndon B Johnson Fwy Suite 490",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://empireroofing-solar.com/",
+  "phone": "(972) 379-9769",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Empire%20Roofing%20and%20Solar%20LLC&query_place_id=ChIJySppUGdxfiwRILiA8ije70A",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lonestar Roofing And Construction",
+  "totalScore": 5,
+  "reviewsCount": 119,
+  "street": "2400 Garden Park Ct",
+  "city": "Arlington",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://lonestarrac.com/",
+  "phone": "(888) 421-1688",
+  "categories": [
+    "Roofing contractor",
+    "Concrete contractor",
+    "Custom home builder",
+    "Deck builder",
+    "General contractor",
+    "Home builder",
+    "Swimming pool contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lonestar%20Roofing%20And%20Construction&query_place_id=ChIJzeGvTaLrToYRDFvZQMACcck",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "SEI Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 129,
+  "street": "2530 Tarpley Rd Ste 200",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://seiroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb",
+  "phone": "(972) 696-7259",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=SEI%20Roofing&query_place_id=ChIJI1JSfx4kTIYRm_8Q_ze7rV0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Commercial Roofing Co.",
+  "totalScore": 4.7,
+  "reviewsCount": 13,
+  "street": "11453 Newkirk St #1226",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://dallascommercialroofingcompany.net/",
+  "phone": "(469) 591-7663",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Commercial%20Roofing%20Co.&query_place_id=ChIJ49wM3-8nTIYR-CRvq8jcNAE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Rubinsky Roofing",
+  "totalScore": 4.7,
+  "reviewsCount": 427,
+  "street": "18383 Preston Rd #202",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.rubinskyroofing.com/",
+  "phone": "(833) 876-6346",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rubinsky%20Roofing&query_place_id=ChIJCyk0SjknTIYRZIBl1ZC-Jv0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Next Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 96,
+  "street": null,
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://nextroofingdfw.com/",
+  "phone": "(817) 803-1149",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Next%20Roofing&query_place_id=ChIJudUcjyGDToYRlf2MkcaxPf8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Midway Roofing Experts",
+  "totalScore": 4.8,
+  "reviewsCount": 24,
+  "street": "18220 Midway Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://midway-roofing-experts.ueniweb.com/?utm_campaign=gmb",
+  "phone": "(818) 334-6710",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Midway%20Roofing%20Experts&query_place_id=ChIJzynkaIMlTIYRN0nXk6OZiKo",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Nailed It Roofing and Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 256,
+  "street": "719 W Harris Rd Suite E20",
+  "city": "Arlington",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.naileditroofer.com/",
+  "phone": "(682) 323-6128",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Nailed%20It%20Roofing%20and%20Construction&query_place_id=ChIJX8N8RDd7ToYRyzj8lFxnCfE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Faz Roofing, Inc.",
+  "totalScore": 3.6,
+  "reviewsCount": 25,
+  "street": "4545 E R L Thornton Fwy",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.fazroofing.net/",
+  "phone": "(214) 821-1111",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Faz%20Roofing%2C%20Inc.&query_place_id=ChIJAQAAALuYToYRg5Kc4NyIq3g",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Castro Roofing",
+  "totalScore": 3.7,
+  "reviewsCount": 11,
+  "street": "4854 Olson Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://castroroofingoftexas.com/",
+  "phone": "(214) 381-8108",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Castro%20Roofing&query_place_id=ChIJ0yXO0I-jToYRHNK63V4LYDQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "SkyCover Roofing & Exteriors",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "5931 Greenville Ave #1185",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.skycoverroofing.com/",
+  "phone": "(469) 253-0858",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=SkyCover%20Roofing%20%26%20Exteriors&query_place_id=ChIJDZlFaB-fToYRgon7ms2o7Ck",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Outback Roofing LLC",
+  "totalScore": 4.6,
+  "reviewsCount": 28,
+  "street": "17618 Davenport Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.outbackroofing.com/",
+  "phone": "(972) 930-9990",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Outback%20Roofing%20LLC&query_place_id=ChIJhbdNvtQjTIYRx309kuKN4Pk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Top Tier Roofing",
+  "totalScore": 2.3,
+  "reviewsCount": 3,
+  "street": "625 S Hampton Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(214) 225-9062",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Tier%20Roofing&query_place_id=ChIJzVZzwtWbToYRTbEzUoxTz4w",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Royal Roofing",
+  "totalScore": 4.6,
+  "reviewsCount": 36,
+  "street": "1234 Chippewa Dr",
+  "city": "Richardson",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://royalroofing.net/",
+  "phone": "(972) 235-6029",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Roofing&query_place_id=ChIJ0-mNN-ghTIYRARhwQGOQsx0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Shield Roofing & Solar",
+  "totalScore": 5,
+  "reviewsCount": 216,
+  "street": "952 N Hwy 67 ste 201",
+  "city": "Cedar Hill",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://myshieldroof.com/",
+  "phone": "(469) 297-8684",
+  "categories": [
+    "Roofing contractor",
+    "Solar energy system service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Shield%20Roofing%20%26%20Solar&query_place_id=ChIJW53DMLSNToYRb1e-OypNtxQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Anderson Industrial Roofing, Inc.",
+  "totalScore": 4.7,
+  "reviewsCount": 29,
+  "street": "518 N Britain Rd",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://andersonindustrialroofing.net/",
+  "phone": "(972) 579-0001",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Anderson%20Industrial%20Roofing%2C%20Inc.&query_place_id=ChIJq30wHOLUTYYRjKM-zEfgrmk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Deluxe Roofing and Construction, LLC",
+  "totalScore": 5,
+  "reviewsCount": 257,
+  "street": "8032 Main St",
+  "city": "North Richland Hills",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.deluxeroofingdfw.com/",
+  "phone": "(817) 893-5044",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Deluxe%20Roofing%20and%20Construction%2C%20LLC&query_place_id=ChIJXW2qncp4ToYRiW97wuIsWww",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Kidd Roofing",
+  "totalScore": 5,
+  "reviewsCount": 271,
+  "street": "2916 W Story Rd",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.kiddroof.com/dallas-roofing/?utm_source=gmb&utm_medium=organic&utm_campaign=irving",
+  "phone": "(972) 823-7663",
+  "categories": [
+    "Roofing contractor",
+    "Building materials supplier",
+    "Building restoration service",
+    "Construction company",
+    "Contractor",
+    "Sheet metal contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kidd%20Roofing&query_place_id=ChIJsw5x6C0qTIYRudGiIWMHUtE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "ACC Roofing",
+  "totalScore": 5,
+  "reviewsCount": 6,
+  "street": "8117 Preston Rd Suite 300",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(817) 799-7663",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Repair service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=ACC%20Roofing&query_place_id=ChIJQxnQMQKfToYRJIYF-ZbuZnQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Central Roofing & Restoration, LLC",
+  "totalScore": 4.4,
+  "reviewsCount": 16,
+  "street": "10550 Olympic Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.centralroofingandrestoration.net/",
+  "phone": "(214) 420-0623",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Central%20Roofing%20%26%20Restoration%2C%20LLC&query_place_id=ChIJ33mVFg2dToYRtAj-kA8Ooss",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "New Elite Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 76,
+  "street": "2435 N Central Expy 12th floor",
+  "city": "Richardson",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://neweliteroofing.com/",
+  "phone": "(214) 564-4355",
+  "categories": [
+    "Roofing contractor",
+    "Fence contractor",
+    "General contractor",
+    "Gutter cleaning service",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20Elite%20Roofing&query_place_id=ChIJ0dyA1lYfTIYRiYyBI7rHYbs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "RainTight General Contracting",
+  "totalScore": 4.8,
+  "reviewsCount": 20,
+  "street": "9903 Carnegie Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.raintight.net/",
+  "phone": "(214) 693-6196",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=RainTight%20General%20Contracting&query_place_id=ChIJkf-RXmuhToYRFUUdEfsjoXk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Capitol Roofing & Construction LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 110,
+  "street": "2806 Lawing Ln Suite B",
+  "city": "Rowlett",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.capitolrcllc.com/",
+  "phone": "(972) 474-8955",
+  "categories": [
+    "Roofing contractor",
+    "Chimney services",
+    "Contractor",
+    "Fence contractor",
+    "General contractor",
+    "Insulation contractor",
+    "Interior construction contractor",
+    "Remodeler",
+    "Siding contractor",
+    "Skylight contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Capitol%20Roofing%20%26%20Construction%20LLC&query_place_id=ChIJxf7FTAelToYRZHVpQBDd_qI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "JCI Roofing Company",
+  "totalScore": 4.8,
+  "reviewsCount": 33,
+  "street": "3108 Old Denton Rd Apt 115",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.jciroofing.com/",
+  "phone": "(972) 245-4025",
+  "categories": [
+    "Roofing contractor",
+    "General contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=JCI%20Roofing%20Company&query_place_id=ChIJGQYRCe0lTIYRu2AMfoAHOdk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Built By Ward",
+  "totalScore": 5,
+  "reviewsCount": 4,
+  "street": "539 W Commerce St STE 5130",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://builtbyward.com/",
+  "phone": "(469) 417-9208",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Built%20By%20Ward&query_place_id=ChIJaTKKj9mZToYRkbhqJOJ56JY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "⭐️HonestRoof.com⭐️",
+  "totalScore": 5,
+  "reviewsCount": 188,
+  "street": "3901 Arlington Highlands Blvd Ste 200",
+  "city": "Arlington",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.honestroof.com/about-us/",
+  "phone": "(817) 966-2863",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=%E2%AD%90%EF%B8%8FHonestRoof.com%E2%AD%90%EF%B8%8F&query_place_id=ChIJTZZO_rtiToYRlYiyuKpgWgc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "PMR Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 79,
+  "street": "2006 N Hwy 360",
+  "city": "Grand Prairie",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://pmrroofing.com/",
+  "phone": "(469) 409-7663",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=PMR%20Roofing&query_place_id=ChIJh-gLcjMFTIYRGfxIywOxsX4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Pink House Roofing & Construction",
+  "totalScore": 4,
+  "reviewsCount": 4,
+  "street": "4848 Lemmon Ave",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(214) 214-7465",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Pink%20House%20Roofing%20%26%20Construction&query_place_id=ChIJWXRrDp6fToYRNr-2AyUezcA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "360 Innovations Roofing | Richardson TX Roofing Pros",
+  "totalScore": 4.7,
+  "reviewsCount": 63,
+  "street": "1110 West Shore Dr #400",
+  "city": "Richardson",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.mydfwroofing.com/",
+  "phone": "(214) 402-6943",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Solar energy company",
+    "Solar energy system service",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=360%20Innovations%20Roofing%20%7C%20Richardson%20TX%20Roofing%20Pros&query_place_id=ChIJJ6bqRgelToYRQIliDYfPUqQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "DFW Roofing",
+  "totalScore": 4.6,
+  "reviewsCount": 11,
+  "street": "13650 T I Blvd #302",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(469) 309-6634",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=DFW%20Roofing&query_place_id=ChIJL41jCYcfTIYRpg3l-ZrnDU0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Top Tier Roofing Contractors",
+  "totalScore": 5,
+  "reviewsCount": 9,
+  "street": "13327 Forestway Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(972) 992-9038",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Top%20Tier%20Roofing%20Contractors&query_place_id=ChIJAQBwJPsgTIYR5IC0PHpG9GA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "MGS Roofing Systems",
+  "totalScore": 4.5,
+  "reviewsCount": 17,
+  "street": "702 E Red Bird Ln",
+  "city": "Duncanville",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://mgsroofingtx.com/",
+  "phone": "(972) 709-7788",
+  "categories": [
+    "Roofing contractor",
+    "Roofing supply store",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=MGS%20Roofing%20Systems&query_place_id=ChIJT9Bt-UWQToYRSJBiRay1akQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Metal Roofing Specialists",
+  "totalScore": 4.7,
+  "reviewsCount": 37,
+  "street": "512 Prairie St",
+  "city": "Arlington",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://texasmetalroofing.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile&utm_content=website",
+  "phone": "(817) 839-4451",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Metal%20Roofing%20Specialists&query_place_id=ChIJoaVJG3V9ToYRxjIy6vvo5k8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Big Sky Roofing & Construction",
+  "totalScore": 5,
+  "reviewsCount": 25,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.bigskyroofingandconstruction.com/",
+  "phone": "(469) 759-0408",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Big%20Sky%20Roofing%20%26%20Construction&query_place_id=ChIJSwgGYo7Ng6wRONzgCBd4ba4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lonestar Roofers",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://www.lonestarroofers.com/",
+  "phone": "(972) 816-8967",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lonestar%20Roofers&query_place_id=ChIJDbW7XgTMAYcRennkrOx0UIk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Greenleaf Roofing",
+  "totalScore": 5,
+  "reviewsCount": 158,
+  "street": "1111 Jupiter Rd Suite 108-E",
+  "city": "Plano",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.greenleaf-roofing.com/",
+  "phone": "(972) 379-9109",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Greenleaf%20Roofing&query_place_id=ChIJh9ApiLUZTIYRRv_pD-pySkw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Total Roofing & Reconstruction",
+  "totalScore": 5,
+  "reviewsCount": 15,
+  "street": "2019 Valley View Ln Suite 100",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.totalroofing.com/",
+  "phone": "(972) 299-5433",
+  "categories": [
+    "Roofing contractor",
+    "Metal fabricator"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Total%20Roofing%20%26%20Reconstruction&query_place_id=ChIJpd694bYnTIYRmWb39kZqhTY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Best Roofing Solutions, LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 71,
+  "street": "5001 FM1187 suite 270",
+  "city": "Burleson",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.texasbestroofingsolutions.com/",
+  "phone": "(817) 919-4310",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Best%20Roofing%20Solutions%2C%20LLC&query_place_id=ChIJ27EdmBFpToYR4CtqCLpGLyc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Martin-Tomlinson Roofing",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "4105 Cedar Lake Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.m-troofing.com/about-us/",
+  "phone": "(214) 388-4871",
+  "categories": [
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Martin-Tomlinson%20Roofing&query_place_id=ChIJ_f97Y6KjToYR9py8uB3MsIQ",
+  "categoryName": "Contractor"
+},
+{
+  "title": "Redbird Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 55,
+  "street": "1506 Capital Ave #150",
+  "city": "Plano",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.redbirdroofingtx.com/",
+  "phone": "(972) 596-5328",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Redbird%20Roofing&query_place_id=ChIJqWgFi7UiTIYRiiSwQ92Mgwg",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Concord Roofing & Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 94,
+  "street": "801 K Ave #14",
+  "city": "Plano",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://concordroofingtx.com/",
+  "phone": "(214) 299-6110",
+  "categories": [
+    "Roofing contractor",
+    "Construction company",
+    "Remodeler"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Concord%20Roofing%20%26%20Construction&query_place_id=ChIJud4CF6AbTIYRxKROFHi-4WA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "3:16 Roofing and Construction",
+  "totalScore": 4.9,
+  "reviewsCount": 239,
+  "street": "424 Keller Pkwy",
+  "city": "Keller",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.316roofingtx.com/",
+  "phone": "(817) 402-7663",
+  "categories": [
+    "Roofing contractor",
+    "Carpenter",
+    "Chimney services",
+    "Fence contractor",
+    "Flooring contractor",
+    "Masonry contractor",
+    "Painter",
+    "Remodeler",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=3%3A16%20Roofing%20and%20Construction&query_place_id=ChIJKWbHN4DXTYYR33VMTRue68w",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Rhino Roofing and General Contracting, LLC",
+  "totalScore": 4.7,
+  "reviewsCount": 65,
+  "street": "160 Kristen Ln #7",
+  "city": "Wylie",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://rhinoroofingtx.com/",
+  "phone": "(844) 387-4466",
+  "categories": [
+    "Roofing contractor",
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rhino%20Roofing%20and%20General%20Contracting%2C%20LLC&query_place_id=ChIJlXw06XOqToYRTRvIWL99fnY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Holden Roofing Dallas",
+  "totalScore": 4.3,
+  "reviewsCount": 22,
+  "street": "4099 McEwen Rd Suite 378",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://holdenroofing.com/contact-us/dallas-roofing/",
+  "phone": "(972) 510-8242",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Holden%20Roofing%20Dallas&query_place_id=ChIJja4m6xGdToYRfbnNJ9oXawA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Masterpiece Roofing & Construction, LLC",
+  "totalScore": 5,
+  "reviewsCount": 29,
+  "street": null,
+  "city": "Sachse",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.masterpieceroofingtx.com/",
+  "phone": "(469) 774-2998",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Masterpiece%20Roofing%20%26%20Construction%2C%20LLC&query_place_id=ChIJiStqBpMDTIYRKX1L9l23284",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "MD Roofing, LLC",
+  "totalScore": 4.9,
+  "reviewsCount": 119,
+  "street": "103 Ramsey St",
+  "city": "Cedar Hill",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://mdroofing.com/",
+  "phone": "(214) 402-5385",
+  "categories": [
+    "Roofing contractor",
+    "Fence contractor",
+    "Gutter cleaning service",
+    "Siding contractor",
+    "Skylight contractor",
+    "Water damage restoration service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=MD%20Roofing%2C%20LLC&query_place_id=ChIJD-kns52NToYRiq5n3Q9qeLo",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "All Tex Roofing Systems",
+  "totalScore": 4.9,
+  "reviewsCount": 32,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.alltexroofingsystems.com/",
+  "phone": "(972) 740-8602",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=All%20Tex%20Roofing%20Systems&query_place_id=ChIJI2TJXsuZToYRbVHM2b-zM9w",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas' Finest Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 78,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(469) 902-6007",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas'%20Finest%20Roofing&query_place_id=ChIJqxg4QVAVZIgRxKbdjhPtiCA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Brothers Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 149,
+  "street": "1321 Precision Dr Ste. 100",
+  "city": "Plano",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.brothersroofs.com/",
+  "phone": "(214) 310-0337",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Brothers%20Roofing&query_place_id=ChIJE2mlnxcZTIYRt27T7iYyxIE",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Rockstar Roofing",
+  "totalScore": 4.8,
+  "reviewsCount": 69,
+  "street": "517 Pine Island Cir",
+  "city": "Heath",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://rockstaroofing.com/",
+  "phone": "(214) 215-5411",
+  "categories": [
+    "Roofing contractor",
+    "Deck builder",
+    "Fire damage restoration service",
+    "Roofing supply store",
+    "Water damage restoration service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rockstar%20Roofing&query_place_id=ChIJ5dMi9QX_S4YR1fUwnenbJMk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Advent Roofing and Restoration",
+  "totalScore": 5,
+  "reviewsCount": 39,
+  "street": "7522 Campbell Rd Suite 113",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://adventroofing.com/",
+  "phone": "(469) 458-7663",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Advent%20Roofing%20and%20Restoration&query_place_id=ChIJNWWX8C4hTIYRqaXX0lbrcis",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Jon Wright Industries",
+  "totalScore": 4.7,
+  "reviewsCount": 38,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.jonwrightroofing.com/",
+  "phone": "(972) 251-1818",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment",
+    "Siding contractor",
+    "Window installation service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Jon%20Wright%20Industries&query_place_id=ChIJFzr85NCcToYRjnefv9Vvx80",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Alto Vista Roofing Company",
+  "totalScore": 4.7,
+  "reviewsCount": 26,
+  "street": "906 Mercury Ave",
+  "city": "Duncanville",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.altovistaroofing.com/",
+  "phone": "(210) 837-5501",
+  "categories": [
+    "Roofing contractor",
+    "Stucco contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Vista%20Roofing%20Company&query_place_id=ChIJE7rH6ZlgXIYRFgWOYMO-JPM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Storm Fix Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 20,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://storm-fix-roofing.ueniweb.com/?utm_campaign=gmb",
+  "phone": "(214) 319-8029",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Storm%20Fix%20Roofing&query_place_id=ChIJ6zdh-IGZToYR-HO40HyhgmU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Gateway Roofing LLC",
+  "totalScore": 5,
+  "reviewsCount": 40,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://gatewayroofing.org/",
+  "phone": "(817) 718-3166",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment",
+    "General contractor",
+    "Siding contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Gateway%20Roofing%20LLC&query_place_id=ChIJd7fzYcHD9IgRH7ZdlUc5C6E",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Rich The Roofer",
+  "totalScore": 5,
+  "reviewsCount": 22,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://richtheroofer.com/",
+  "phone": "(469) 323-7692",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Rich%20The%20Roofer&query_place_id=ChIJHTj0UW4jIEQRHuyMB1lF5Hk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Threadgills Guaranteed Roofing",
+  "totalScore": 5,
+  "reviewsCount": 3,
+  "street": "5930 Royal Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://threadgillsroofing.com/",
+  "phone": "(972) 943-4244",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Threadgills%20Guaranteed%20Roofing&query_place_id=ChIJU_qRjieeToYR7jfsMO6lYJ0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "SUNDANCE ROOFING & CONSTRUCTION",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "25 Highland Park Village",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://sundanceroofs.com/",
+  "phone": "(214) 766-5566",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=SUNDANCE%20ROOFING%20%26%20CONSTRUCTION&query_place_id=ChIJs28fXe6eToYRogLdYlWGMtU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Patrick's Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 117,
+  "street": "5524 Monthaven Dr",
+  "city": "Fort Worth",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.patricksroofing.com/",
+  "phone": "(817) 528-2991",
+  "categories": [
+    "Roofing contractor",
+    "Insulation contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Patrick's%20Roofing&query_place_id=ChIJydI1nR3YTYYRtClNtFAr40k",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "AR Roofing & Remodeling, LLC",
+  "totalScore": 5,
+  "reviewsCount": 8,
+  "street": "920 Shady Brook Ln",
+  "city": "Cedar Hill",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://ar-roofing.net/",
+  "phone": "(469) 330-7663",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "Granite supplier",
+    "Remodeler"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=AR%20Roofing%20%26%20Remodeling%2C%20LLC&query_place_id=ChIJVVVVVUUfTIYRf0KszXiNlk0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Community Roofing",
+  "totalScore": 5,
+  "reviewsCount": 3,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://sites.google.com/communityroofsdfw.com/community-roofing/home",
+  "phone": "(214) 253-9620",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Community%20Roofing&query_place_id=ChIJA9Cuzs7sd2oRWZHxjNmgB90",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Areawide Roofing",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": "2902 Hillglenn Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.areawideroofing.com/",
+  "phone": "(972) 983-6670",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Areawide%20Roofing&query_place_id=ChIJrapE9R-hToYRu7vcweK_-18",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Evans & Horton Roofing, L.P.",
+  "totalScore": 5,
+  "reviewsCount": 20,
+  "street": "1826 Parkside Ave",
+  "city": "Irving",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://evansandhorton.com/",
+  "phone": "(972) 259-1558",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Evans%20%26%20Horton%20Roofing%2C%20L.P.&query_place_id=ChIJC6wlx5iDToYRrJsHY_bG2C4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Alto Vista Roofing Company",
+  "totalScore": 5,
+  "reviewsCount": 2,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://www.altovistaroofing.com/",
+  "phone": "(210) 837-5501",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alto%20Vista%20Roofing%20Company&query_place_id=ChIJOY-m2xeZToYReNU27CLs1QY",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Lone Star Roofing",
+  "totalScore": 2.3,
+  "reviewsCount": 3,
+  "street": "3321 Sheila Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(972) 342-2986",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Lone%20Star%20Roofing&query_place_id=ChIJUzvnmrqdToYRgmCcFhsIXeo",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Texas Roofing Company",
+  "totalScore": 2.6,
+  "reviewsCount": 5,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(469) 225-0579",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Roofing%20Company&query_place_id=ChIJVVVZZZeeToYRUQPhF4-nIU0",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Santos Roofing and Remodeling",
+  "totalScore": 5,
+  "reviewsCount": 20,
+  "street": "2303 Misty Ln",
+  "city": "Carrollton",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.santosroofingandremodeling.com/",
+  "phone": "(214) 586-8647",
+  "categories": [
+    "General contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Santos%20Roofing%20and%20Remodeling&query_place_id=ChIJiZQtwCOP0U8R2fDRqHleS7o",
+  "categoryName": "General contractor"
+},
+{
+  "title": "Kingdom Roofing & Construction",
+  "totalScore": 4.8,
+  "reviewsCount": 33,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://kingdomroofingllc.com/",
+  "phone": "(972) 905-0977",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Kingdom%20Roofing%20%26%20Construction&query_place_id=ChIJ_XJmin2ZToYRE5IwAGSpBYs",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "West Roofing, Inc.",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "2659 Lombardy Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.westroofingdallas.com/",
+  "phone": "(972) 869-2655",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=West%20Roofing%2C%20Inc.&query_place_id=ChIJSdIn1QydToYRHCpY_b4brJM",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Architects Roofing, LLC.",
+  "totalScore": 4.3,
+  "reviewsCount": 20,
+  "street": "17304 Preston Rd #800",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://www.architectsroofing.com/",
+  "phone": "(469) 443-6837",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Architects%20Roofing%2C%20LLC.&query_place_id=ChIJ73KsmNcjTIYRR9UOvY7AtrI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Remarkable Roofing and Construction LLC",
+  "totalScore": 4,
+  "reviewsCount": 8,
+  "street": "5050 Quorum Dr Ste 700",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://remarkable-roofing.com/",
+  "phone": "(214) 403-4556",
+  "categories": [
+    "Roofing contractor",
+    "Professional organizer"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Remarkable%20Roofing%20and%20Construction%20LLC&query_place_id=ChIJzfggWCUhTIYRJLsyYOh9Z8c",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Alpha Roofing Group",
+  "totalScore": 3.3,
+  "reviewsCount": 7,
+  "street": "10606 Shady Trail",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://alphabuilt.com/contact/",
+  "phone": "(972) 449-5003",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alpha%20Roofing%20Group&query_place_id=ChIJCWQ7dm2dToYRIUGeSZbFTH4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "B&E Contractors",
+  "totalScore": 4.3,
+  "reviewsCount": 6,
+  "street": "200 N Pearl St",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "",
+  "categories": [
+    "Chimney sweep"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=B%26E%20Contractors&query_place_id=ChIJKU9e37aMXIYRMtpGctO25S4",
+  "categoryName": "Chimney sweep"
+},
+{
+  "title": "Assurance Roofing and Construction",
+  "totalScore": 5,
+  "reviewsCount": 19,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://www.assurancedfw.com/",
+  "phone": "(214) 926-5008",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Assurance%20Roofing%20and%20Construction&query_place_id=ChIJFZoXBOKZToYReUnXkFszJBQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Aspen Roofing & Exteriors, INC.",
+  "totalScore": 3.6,
+  "reviewsCount": 22,
+  "street": "2010 Valley View Ln #130",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(817) 989-9136",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Aspen%20Roofing%20%26%20Exteriors%2C%20INC.&query_place_id=ChIJpSZWMNwnTIYRsqZseds5EPA",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "RidgeLock Roofing and Restoration",
+  "totalScore": 5,
+  "reviewsCount": 7,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://ridgelockroofing.com/",
+  "phone": "(469) 588-6365",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=RidgeLock%20Roofing%20and%20Restoration&query_place_id=ChIJCfG_jsWxwaoRwxhzAjICTuU",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Skyfall Roofing Systems",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "8117 Preston Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.skyfallroofingsystems.com/",
+  "phone": "(855) 994-6400",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Skyfall%20Roofing%20Systems&query_place_id=ChIJaxrvwN6fToYRAAof22i0ueI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "John's Roofing",
+  "totalScore": 4.9,
+  "reviewsCount": 257,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://johnsroofingdfw.com/",
+  "phone": "(469) 394-4386",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment",
+    "Gutter cleaning service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=John's%20Roofing&query_place_id=ChIJx4UqpfL_S4YR_-Xi_jvG6NI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Certified Roofing and Construction LLC",
+  "totalScore": 4.6,
+  "reviewsCount": 14,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://www.certifiedroofingtx.com/",
+  "phone": "(214) 416-7671",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Certified%20Roofing%20and%20Construction%20LLC&query_place_id=ChIJszYap7aZToYRlMGY8l_L3I8",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "North Texas Roof and Shingle",
+  "totalScore": 4.3,
+  "reviewsCount": 11,
+  "street": "7147 Hudson Cemetery Rd",
+  "city": "Mansfield",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(682) 330-6265",
+  "categories": [
+    "Roofing contractor",
+    "Remodeler",
+    "Stucco contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=North%20Texas%20Roof%20and%20Shingle&query_place_id=ChIJRe37e359ToYRGdfhXsDmJvQ",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "AM Gutter Services",
+  "totalScore": 5,
+  "reviewsCount": 250,
+  "street": "5641 SMU Boulevard #106",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.amgutterservices.com/",
+  "phone": "(214) 980-4366",
+  "categories": [
+    "Gutter service",
+    "Gutter cleaning service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=AM%20Gutter%20Services&query_place_id=ChIJHxUOIzudToYRlQTstwvajTw",
+  "categoryName": "Gutter service"
+},
+{
+  "title": "Roofing Figueroa Contractor",
+  "totalScore": 4.3,
+  "reviewsCount": 16,
+  "street": "4039 Ambrose Dr",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(469) 508-4462",
+  "categories": [
+    "Roofing contractor",
+    "Bathroom remodeler",
+    "Kitchen remodeler",
+    "Remodeler"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofing%20Figueroa%20Contractor&query_place_id=ChIJbX0fZUyXToYR4FFtx65Cdag",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Apex Roofing",
+  "totalScore": 5,
+  "reviewsCount": 30,
+  "street": "311 Pennsylvania Ave",
+  "city": "Kennedale",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "http://apexroofing.com/",
+  "phone": "(817) 300-8195",
+  "categories": [
+    "Roofing contractor",
+    "Contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Apex%20Roofing&query_place_id=ChIJKbyzgOJkToYRiljob98Cqpk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roof Repair Dallas",
+  "totalScore": 4.9,
+  "reviewsCount": 15,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://roof-repair-dallas.ueniweb.com/?utm_campaign=gmb",
+  "phone": "(386) 387-4971",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roof%20Repair%20Dallas&query_place_id=ChIJYUJraZEhTIYR6kEUmIU-PZ4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "DM Roofing TX",
+  "totalScore": 5,
+  "reviewsCount": 53,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://dmroofingtx.com/",
+  "phone": "(817) 919-0680",
+  "categories": [
+    "Roofing contractor",
+    "Contractor",
+    "Service establishment",
+    "General contractor",
+    "Waterproofing service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=DM%20Roofing%20TX&query_place_id=ChIJtSxr13ph4CsR9P5h7SIrBWw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Right Choice Roofing - Dallas TX",
+  "totalScore": 5,
+  "reviewsCount": 20,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://rtchoiceroofing.com/",
+  "phone": "(972) 637-8600",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Right%20Choice%20Roofing%20-%20Dallas%20TX&query_place_id=ChIJWVN0980jTIYRE7LrEpl1lYc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "SRS Building Products",
+  "totalScore": 4.5,
+  "reviewsCount": 40,
+  "street": "1604 Peavy Rd",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://www.srsdistribution.com/en/markets/our-brands/SSDAL/",
+  "phone": "(214) 321-6461",
+  "categories": [
+    "Roofing supply store",
+    "Building materials supplier",
+    "Wholesaler"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=SRS%20Building%20Products&query_place_id=ChIJwdERrBShToYRK-zIHJvD2e8",
+  "categoryName": "Roofing supply store"
+},
+{
+  "title": "Alpine Exteriors Siding, Roofing & Windows",
+  "totalScore": 5,
+  "reviewsCount": 9,
+  "street": "5960 Berkshire Ln Suite 100",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "website": "https://alpineexteriorstx.com/",
+  "phone": "(214) 537-9454",
+  "categories": [
+    "Roofing contractor",
+    "Siding contractor",
+    "Window installation service"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Alpine%20Exteriors%20Siding%2C%20Roofing%20%26%20Windows&query_place_id=ChIJh9akKCifToYROkTmsoO4-ZI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Commercial Roofing Dallas",
+  "totalScore": 1,
+  "reviewsCount": 1,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(312) 470-6897",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Commercial%20Roofing%20Dallas&query_place_id=ChIJxROnY2KZToYR0REoGQUuJyI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Restore Roofing & Remodeling",
+  "totalScore": 4.9,
+  "reviewsCount": 51,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.therestoreteam.com/?utm_source=google&utm_medium=business_profile&utm_campaign=website",
+  "phone": "(972) 538-1909",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Restore%20Roofing%20%26%20Remodeling&query_place_id=ChIJi-P4sB4mTIYRYgJq8r4Ci1I",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Leaky Roofing Suppliers",
+  "totalScore": 4.9,
+  "reviewsCount": 11,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://leaky-roofing-suppliers.ueniweb.com/?utm_campaign=gmb",
+  "phone": "",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Leaky%20Roofing%20Suppliers&query_place_id=ChIJz3EovqajToYRRnpT19Anoic",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Bone Dry Roofing And Restoration",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": "4717 Willow Ln",
+  "city": "Dallas",
+  "state": "Texas",
+  "countryCode": "US",
+  "phone": "(833) 337-6631",
+  "categories": [
+    "Roofing contractor"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Bone%20Dry%20Roofing%20And%20Restoration&query_place_id=ChIJ4WwiHWwhTIYRIFl7M5bMtQc",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roofers of Dallas",
+  "totalScore": 5,
+  "reviewsCount": 5,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://roofers-of-dallas.ueniweb.com/?utm_campaign=gmb",
+  "phone": "",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofers%20of%20Dallas&query_place_id=ChIJv5HTG0SXToYR3-kAEAHnaTw",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "United Roofing",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://www.unitedroofers.co/",
+  "phone": "(469) 783-8064",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=United%20Roofing&query_place_id=ChIJOT2vbHmMWyIRDzCt-CebNe4",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Roofers Den",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(469) 202-8330",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Roofers%20Den&query_place_id=ChIJJWnU0NSZToYRTvVX541Fbnk",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Blue Diamond Roofing & Construction",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "phone": "(469) 789-3564",
+  "categories": [
+    "Roofing contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Blue%20Diamond%20Roofing%20%26%20Construction&query_place_id=ChIJb6w_OdOYToYR837ccFxyTeI",
+  "categoryName": "Roofing contractor"
+},
+{
+  "title": "Dallas Pro Contractors",
+  "totalScore": 5,
+  "reviewsCount": 12,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://dallasprocontractors.com/",
+  "phone": "(214) 876-8752",
+  "categories": [
+    "Contractor",
+    "Service establishment"
+  ],
+  "url": "https://www.google.com/maps/search/?api=1&query=Dallas%20Pro%20Contractors&query_place_id=ChIJAY-canyfv28RtZyYvE-SCt0",
+  "categoryName": "Contractor"
+},
+{
+  "title": "AireMaster",
+  "totalScore": 4.9,
+  "reviewsCount": 68,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://airemasterac.com/?utm_source=omg-gbp&utm_medium=webclick",
+  "phone": "(972) 978-3789",
   "categories": [
     "HVAC contractor",
     "Air conditioning contractor",
     "Air conditioning repair service",
-    "Drainage service",
-    "Furnace repair service",
-    "Heating contractor",
-    "Heating equipment supplier",
-    "Hot water system supplier",
-    "Plumber"
+    "Service establishment",
+    "Heating contractor"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Luke's%20Plumbing%20%26%20Air%20Conditioning&query_place_id=ChIJQ7J0M-DFQIYRskiRnGaPwQE",
+  "url": "https://www.google.com/maps/search/?api=1&query=AireMaster&query_place_id=ChIJWegejtMfTIYRgeFSXwV9V-I",
   "categoryName": "HVAC contractor"
 },
 {
-  "title": "Affordable Plumbing Services Houston",
-  "totalScore": 4.7,
+  "title": "Critter Stop Dallas",
+  "totalScore": 4.9,
   "reviewsCount": 122,
-  "street": "12329 Ashcroft Dr",
-  "city": "Houston",
+  "street": "3838 Oak Lawn Ave Suite#1000",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://affordable-plumbing.localo.site/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
-  "phone": "(832) 621-4939",
+  "website": "https://www.critterstop-dallas.com/",
+  "phone": "(469) 833-4076",
   "categories": [
-    "Plumber",
-    "Repair service"
+    "Pest control service",
+    "Insulation contractor"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Affordable%20Plumbing%20Services%20Houston&query_place_id=ChIJi_ZFXDG_M0ERpz8kfa9QFKM",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Critter%20Stop%20Dallas&query_place_id=ChIJF5M_28SfToYRGTceTS7oj3A",
+  "categoryName": "Pest control service"
 },
 {
-  "title": "Roto-Rooter Plumbing & Water Cleanup",
-  "totalScore": 4.7,
-  "reviewsCount": 3625,
-  "street": "3403 North Sam Houston Pkwy W #400",
-  "city": "Houston",
+  "title": "SERVPRO of Downtown Dallas - Team Shaw",
+  "totalScore": 4.3,
+  "reviewsCount": 53,
+  "street": "1910 Pacific Ave Suite 5065",
+  "city": "Dallas",
   "state": "Texas",
   "countryCode": "US",
-  "website": "https://www.rotorooter.com/houston/?utm_source=Google&utm_medium=organic&utm_campaign=gmb&utm_content=website",
-  "phone": "(713) 470-0080",
+  "website": "https://www.servpro.com/locations/tx/servpro-of-downtown-dallas-team-shaw?utm_medium=organic&utm_source=gbp",
+  "phone": "(469) 943-0844",
   "categories": [
-    "Plumber",
-    "Contractor",
-    "Drainage service",
-    "Excavating contractor",
-    "Repair service",
     "Water damage restoration service",
-    "Water filter supplier",
-    "Water softening equipment supplier",
-    "Water testing service"
+    "Air duct cleaning service",
+    "Building restoration service",
+    "Carpet cleaning service",
+    "Cleaners",
+    "Crime victim service",
+    "Debris removal service",
+    "Fire damage restoration service",
+    "Waste management service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Roto-Rooter%20Plumbing%20%26%20Water%20Cleanup&query_place_id=ChIJR4Z2chlcP4YR1Qdrqp3DgjM",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=SERVPRO%20of%20Downtown%20Dallas%20-%20Team%20Shaw&query_place_id=ChIJuc4uaByZToYRrxBfTFOK75g",
+  "categoryName": "Water damage restoration service"
 },
 {
-  "title": "Houston Plumbing Services",
-  "totalScore": 4.9,
-  "reviewsCount": 215,
-  "street": "7807 Long Point Rd #330",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.houstonplumbingservices.com/",
-  "phone": "(713) 231-3309",
-  "categories": [
-    "Plumber",
-    "Bathroom remodeler",
-    "Drainage service",
-    "Kitchen remodeler"
-  ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Houston%20Plumbing%20Services&query_place_id=ChIJF6ElMtLFQIYRqdF4qW7ruj0",
-  "categoryName": "Plumber"
-},
-{
-  "title": "Speedway Plumbing Houston Texas",
-  "totalScore": 4.5,
-  "reviewsCount": 74,
+  "title": "Home Rescue Pro",
+  "totalScore": 5,
+  "reviewsCount": 4,
   "street": null,
   "city": null,
   "state": null,
   "countryCode": null,
-  "website": "https://speedwayplumbingtexas.com/",
-  "phone": "(713) 352-7226",
+  "website": "https://www.home-rescue-pro.com/",
+  "phone": "(800) 949-0758",
   "categories": [
-    "Plumber",
+    "Water damage restoration service",
     "Service establishment"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Speedway%20Plumbing%20Houston%20Texas&query_place_id=ChIJJxRaqhbCQIYRbPoqGg5FoRc",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Home%20Rescue%20Pro&query_place_id=ChIJ1xZPNqKn7a4RBC54SQhsOU4",
+  "categoryName": "Water damage restoration service"
 },
 {
-  "title": "Lifetime Plumbing",
-  "totalScore": 4.9,
-  "reviewsCount": 91,
+  "title": "Crest Commercial Roofing",
+  "totalScore": null,
+  "reviewsCount": null,
   "street": null,
   "city": null,
   "state": null,
   "countryCode": null,
-  "website": "http://lifetimeplumbingtx.com/",
-  "phone": "(832) 942-2071",
+  "phone": "(469) 998-0031",
   "categories": [
-    "Plumber",
+    "Roofing contractor",
     "Service establishment"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Lifetime%20Plumbing&query_place_id=ChIJM5HKALKXwm4Rbj9V1JZa_qk",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Crest%20Commercial%20Roofing&query_place_id=ChIJuYrvbdCeToYRNaBkxYaxkFg",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "Texas Plumbing",
-  "totalScore": 4.6,
-  "reviewsCount": 173,
-  "street": "10111 Woodwind Dr",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.texasplumbing911.com/",
-  "phone": "(713) 478-5766",
+  "title": "New View Roofing",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://newviewroofing.com/florida/",
+  "phone": "(561) 786-8781",
   "categories": [
-    "Plumber"
+    "Roofing contractor",
+    "Service establishment"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Plumbing&query_place_id=ChIJS9tVTi_rQIYR3fdRbq_reaA",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=New%20View%20Roofing&query_place_id=ChIJ2be9rNl2owoRTg8rqYHX6Rg",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "Acacias Plumbing | Emergency Plumber, Drain Cleaning, Sewer Repair and Water Heater Installation Houston, TX",
-  "totalScore": 4.7,
-  "reviewsCount": 63,
-  "street": "2950 North Loop West Freeway",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.acaciasplumbing.com/?utm_source=google&utm_medium=search_engine&utm_campaign=gmb",
-  "phone": "(832) 281-5575",
-  "categories": [
-    "Plumber",
-    "Bathroom remodeler",
-    "Drainage service",
-    "Water softening equipment supplier"
-  ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Acacias%20Plumbing%20%7C%20Emergency%20Plumber%2C%20Drain%20Cleaning%2C%20Sewer%20Repair%20and%20Water%20Heater%20Installation%20Houston%2C%20TX&query_place_id=ChIJ-S3qXjrRQIYRUvzx9-_ZXtY",
-  "categoryName": "Plumber"
-},
-{
-  "title": "Cooper Plumbing | Houston Plumber",
+  "title": "Harsin Energy Services",
   "totalScore": 4.9,
-  "reviewsCount": 530,
-  "street": "10825 Barely Ln",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.cooperplumbinghouston.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb-listing",
-  "phone": "(832) 441-9683",
+  "reviewsCount": 193,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.energysaversdallas.com/",
+  "phone": "(214) 732-7241",
   "categories": [
-    "Plumber"
+    "Insulation contractor",
+    "Energy equipment and solutions",
+    "Service establishment"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Cooper%20Plumbing%20%7C%20Houston%20Plumber&query_place_id=ChIJA_eUDQLRQIYR8yJYKP1k_nw",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Harsin%20Energy%20Services&query_place_id=ChIJnyrbO9SeToYRuuczHeKlkuE",
+  "categoryName": "Insulation contractor"
 },
 {
-  "title": "Village Plumbing, Air & Electric",
-  "totalScore": 4.8,
-  "reviewsCount": 9947,
-  "street": "10644 W Little York Rd #200",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://villageplumbing.com/?utm_source=google&utm_medium=gmb&utm_campaign=Google%20Business%20Profile",
-  "phone": "(281) 344-2270",
+  "title": "DFW Roofers",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "http://www.dfwroofers.com/",
+  "phone": "(469) 751-4018",
   "categories": [
-    "Plumber",
-    "Air conditioning contractor",
-    "Air conditioning repair service",
-    "Drainage service",
-    "Electrician",
-    "Furnace repair service",
-    "Gasfitter",
-    "Heating contractor",
-    "HVAC contractor"
+    "Roofing contractor",
+    "Service establishment"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Village%20Plumbing%2C%20Air%20%26%20Electric&query_place_id=ChIJIc-2aF_AQIYRJab07qEMW4A",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=DFW%20Roofers&query_place_id=ChIJ9zd6MwckZQMRmOD54Uex5-M",
+  "categoryName": "Roofing contractor"
 },
 {
-  "title": "Texas Quality Plumbing",
-  "totalScore": 4.8,
-  "reviewsCount": 3879,
-  "street": "10814 Woodedge Dr",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.texasqualityplumbing.com/?utm_source=google&utm_medium=organic&utm_campaign=local+listings",
-  "phone": "(713) 385-0349",
+  "title": "Three Points Roofing and Solar",
+  "totalScore": null,
+  "reviewsCount": null,
+  "street": null,
+  "city": null,
+  "state": null,
+  "countryCode": null,
+  "website": "https://www.threepointsroofingandsolar.com/",
+  "phone": "(214) 471-5124",
   "categories": [
-    "Plumber",
-    "Drainage service"
+    "Roofing contractor",
+    "Service establishment",
+    "Remodeler",
+    "Solar energy system service"
   ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Texas%20Quality%20Plumbing&query_place_id=ChIJRYJR0Y7PQIYR_47naUFx8Mo",
-  "categoryName": "Plumber"
-},
-{
-  "title": "Nick's Plumbing & Air Conditioning",
-  "totalScore": 4.7,
-  "reviewsCount": 4109,
-  "street": "3780 Yale St",
-  "city": "Houston",
-  "state": "Texas",
-  "countryCode": "US",
-  "website": "https://www.nicksplumbing.com/",
-  "phone": "(713) 868-9907",
-  "categories": [
-    "Plumber",
-    "HVAC contractor"
-  ],
-  "url": "https://www.google.com/maps/search/?api=1&query=Nick's%20Plumbing%20%26%20Air%20Conditioning&query_place_id=ChIJc48_TGrHQIYRiWl40K2R6Xo",
-  "categoryName": "Plumber"
+  "url": "https://www.google.com/maps/search/?api=1&query=Three%20Points%20Roofing%20and%20Solar&query_place_id=ChIJc7lqnuzrGwURHjYZE96UJhQ",
+  "categoryName": "Roofing contractor"
 }]
